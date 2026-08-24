@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-24T16:36:43-04:00",
+  "lastChecked": "2026-08-24T16:38:50-04:00",
   "freeVotes": [
+    {
+      "name": "Roseann Napolitano",
+      "approxTime": "2026-08-24T16:37:57-04:00",
+      "relativeAtCapture": "53 seconds ago",
+      "firstLogged": "2026-08-24T16:38:50-04:00"
+    },
     {
       "name": "Israel Bien",
       "approxTime": "2026-08-24T16:35:48-04:00",
