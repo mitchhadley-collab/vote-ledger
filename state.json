@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-23T22:34:46-04:00",
+  "lastChecked": "2026-08-23T22:52:21-04:00",
   "freeVotes": [
+    {
+      "name": "Steven Hadley",
+      "approxTime": "2026-08-23T22:51:49-04:00",
+      "relativeAtCapture": "32 seconds ago",
+      "firstLogged": "2026-08-23T22:52:21-04:00"
+    },
     {
       "name": "Ben Woodrow",
       "approxTime": "2026-08-23T22:34:27-04:00",
