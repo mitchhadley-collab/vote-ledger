@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-24T01:41:12-04:00",
+  "lastChecked": "2026-08-24T01:59:49-04:00",
   "freeVotes": [
+    {
+      "name": "Unmesha Duarah",
+      "approxTime": "2026-08-24T01:59:34-04:00",
+      "relativeAtCapture": "15 seconds ago",
+      "firstLogged": "2026-08-24T01:59:49-04:00"
+    },
     {
       "name": "Raj Narahonam",
       "approxTime": "2026-08-24T01:40:26-04:00",
