@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-24T17:21:35-04:00",
+  "lastChecked": "2026-08-24T17:22:38-04:00",
   "freeVotes": [
+    {
+      "name": "Ryan Newell",
+      "approxTime": "2026-08-24T17:22:06-04:00",
+      "relativeAtCapture": "32 seconds ago",
+      "firstLogged": "2026-08-24T17:22:38-04:00"
+    },
     {
       "name": "Jimmie Raleigh",
       "approxTime": "2026-08-24T17:21:30-04:00",
