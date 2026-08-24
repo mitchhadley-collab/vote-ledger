@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-24T11:38:50-04:00",
+  "lastChecked": "2026-08-24T11:44:01-04:00",
   "freeVotes": [
+    {
+      "name": "Nageshwar Rao Avadhanula",
+      "approxTime": "2026-08-24T11:43:25-04:00",
+      "relativeAtCapture": "36 seconds ago",
+      "firstLogged": "2026-08-24T11:44:01-04:00"
+    },
     {
       "name": "Kelley Kay",
       "approxTime": "2026-08-24T11:38:37-04:00",
