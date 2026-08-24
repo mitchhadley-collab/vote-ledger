@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-24T17:25:45-04:00",
+  "lastChecked": "2026-08-24T17:34:04-04:00",
   "freeVotes": [
+    {
+      "name": "Joseph Lopez",
+      "approxTime": "2026-08-24T17:34:01-04:00",
+      "relativeAtCapture": "3 seconds ago",
+      "firstLogged": "2026-08-24T17:34:04-04:00"
+    },
     {
       "name": "Lorin Ann",
       "approxTime": "2026-08-24T17:24:59-04:00",
