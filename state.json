@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-24T10:27:26-04:00",
+  "lastChecked": "2026-08-24T10:50:11-04:00",
   "freeVotes": [
+    {
+      "name": "Phani Suhas",
+      "approxTime": "2026-08-24T10:49:37-04:00",
+      "relativeAtCapture": "34 seconds ago",
+      "firstLogged": "2026-08-24T10:50:11-04:00"
+    },
     {
       "name": "Maegan Assaf",
       "approxTime": "2026-08-24T10:27:10-04:00",
