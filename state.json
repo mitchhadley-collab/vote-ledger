@@ -1,7 +1,7 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-24T09:21:07-04:00",
+  "lastChecked": "2026-08-24T09:28:22-04:00",
   "freeVotes": [
     {
       "name": "Jubilee Ajemigbitse",
@@ -299,6 +299,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "Gage Zobell",
+      "votes": 25,
+      "approxTime": "2026-08-24T09:27:58-04:00",
+      "relativeAtCapture": "24 seconds ago",
+      "comment": null
+    },
     {
       "name": "Caitlin Curtis",
       "votes": 20,
