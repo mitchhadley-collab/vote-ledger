@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-24T16:40:56-04:00",
+  "lastChecked": "2026-08-24T16:48:13-04:00",
   "freeVotes": [
+    {
+      "name": "Felix Lempert",
+      "approxTime": "2026-08-24T16:47:25-04:00",
+      "relativeAtCapture": "48 seconds ago",
+      "firstLogged": "2026-08-24T16:48:13-04:00"
+    },
     {
       "name": "Brendan Bakst",
       "approxTime": "2026-08-24T16:40:45-04:00",
