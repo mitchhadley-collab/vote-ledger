@@ -1,0 +1,728 @@
+<title>Vote Ledger</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Karla:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<script type="application/json" id="vote-data">
+__VOTE_DATA__
+</script>
+
+<style>
+  :root {
+    --bg: #faf6f3;
+    --surface: #ffffff;
+    --surface-inset: #fbf0f4;
+    --ink: #2b1a22;
+    --ink-soft: #7a6570;
+    --ink-faint: #a8929c;
+    --line: #ecdee3;
+    --line-strong: #d9c2cc;
+    --accent: #a2294f;
+    --accent-ink: #ffffff;
+    --accent-soft: #f3d9e1;
+    --accent-soft-ink: #7a1d3c;
+    --gold: #9c6b1f;
+    --gold-soft: #f2e6cf;
+    --good: #2f7a4f;
+    --good-soft: #dcefe1;
+    --shadow: 0 1px 2px rgba(43, 26, 34, 0.06), 0 8px 24px -12px rgba(43, 26, 34, 0.18);
+    color-scheme: light;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #1b1216;
+      --surface: #241720;
+      --surface-inset: #2c1a26;
+      --ink: #f4e8ee;
+      --ink-soft: #c3a7b3;
+      --ink-faint: #8a707b;
+      --line: #3a2530;
+      --line-strong: #4a2f3d;
+      --accent: #ec87a6;
+      --accent-ink: #2b1018;
+      --accent-soft: #3d2230;
+      --accent-soft-ink: #f4b9cd;
+      --gold: #d8ac5f;
+      --gold-soft: #362c1a;
+      --good: #74c99a;
+      --good-soft: #1d3327;
+      --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px -12px rgba(0, 0, 0, 0.5);
+      color-scheme: dark;
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --bg: #1b1216;
+    --surface: #241720;
+    --surface-inset: #2c1a26;
+    --ink: #f4e8ee;
+    --ink-soft: #c3a7b3;
+    --ink-faint: #8a707b;
+    --line: #3a2530;
+    --line-strong: #4a2f3d;
+    --accent: #ec87a6;
+    --accent-ink: #2b1018;
+    --accent-soft: #3d2230;
+    --accent-soft-ink: #f4b9cd;
+    --gold: #d8ac5f;
+    --gold-soft: #362c1a;
+    --good: #74c99a;
+    --good-soft: #1d3327;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px -12px rgba(0, 0, 0, 0.5);
+    color-scheme: dark;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: "Karla", ui-sans-serif, system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.5;
+  }
+
+  .wrap {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 48px 24px 80px;
+  }
+
+  header {
+    margin-bottom: 36px;
+  }
+
+  .eyebrow {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 10px;
+  }
+
+  h1 {
+    font-family: "Fraunces", Georgia, serif;
+    font-weight: 600;
+    font-size: clamp(2rem, 5vw, 2.6rem);
+    letter-spacing: -0.01em;
+    margin: 0 0 12px;
+    text-wrap: balance;
+  }
+
+  .lede {
+    color: var(--ink-soft);
+    font-size: 1rem;
+    max-width: 58ch;
+    margin: 0;
+  }
+
+  .stat-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 28px;
+  }
+
+  .stat {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 14px 18px;
+    box-shadow: var(--shadow);
+    flex: 1 1 150px;
+  }
+
+  .stat .n {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-variant-numeric: tabular-nums;
+    font-size: 1.6rem;
+    font-weight: 500;
+    display: block;
+    line-height: 1.1;
+  }
+
+  .stat .l {
+    color: var(--ink-faint);
+    font-size: 0.75rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    margin-top: 4px;
+    display: block;
+  }
+
+  section {
+    margin-top: 40px;
+  }
+
+  .section-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 12px;
+    border-bottom: 1px solid var(--line-strong);
+    padding-bottom: 10px;
+    margin-bottom: 4px;
+  }
+
+  h2 {
+    font-family: "Fraunces", Georgia, serif;
+    font-weight: 500;
+    font-size: 1.3rem;
+    margin: 0;
+  }
+
+  .section-count {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 0.8rem;
+    color: var(--ink-faint);
+  }
+
+  .ledger {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .row {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 4px 16px;
+    align-items: baseline;
+    padding: 14px 4px;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .row:last-child { border-bottom: none; }
+
+  .row .name {
+    font-weight: 600;
+    font-size: 0.98rem;
+  }
+
+  .row .comment {
+    grid-column: 1 / -1;
+    font-size: 0.88rem;
+    color: var(--ink-soft);
+    font-style: italic;
+    margin-top: 2px;
+  }
+
+  .row .when {
+    text-align: right;
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 0.82rem;
+    color: var(--ink-soft);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  .row .when .abs {
+    display: block;
+    color: var(--ink-faint);
+    font-size: 0.74rem;
+  }
+
+  .chip {
+    display: inline-block;
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.03em;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--gold-soft);
+    color: var(--gold);
+    margin-left: 8px;
+    vertical-align: middle;
+  }
+
+  .empty {
+    color: var(--ink-faint);
+    font-size: 0.9rem;
+    padding: 20px 4px;
+  }
+
+  footer {
+    margin-top: 48px;
+    padding-top: 20px;
+    border-top: 1px solid var(--line);
+    color: var(--ink-faint);
+    font-size: 0.82rem;
+    line-height: 1.6;
+  }
+
+  footer a { color: var(--accent); }
+
+  .warning-box {
+    margin-top: 16px;
+    background: var(--gold-soft);
+    border: 1px solid var(--gold);
+    border-radius: 10px;
+    padding: 12px 16px;
+    font-size: 0.85rem;
+    color: var(--ink);
+    line-height: 1.5;
+  }
+
+  .warning-box .w-title {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--gold);
+    display: block;
+    margin-bottom: 6px;
+  }
+
+  .warning-box ul {
+    margin: 0;
+    padding-left: 18px;
+  }
+
+  .warning-box li {
+    margin-bottom: 4px;
+  }
+
+  .warning-box li:last-child {
+    margin-bottom: 0;
+  }
+
+  .table-wrap {
+    overflow-x: auto;
+  }
+
+  .daily-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.92rem;
+  }
+
+  .daily-table th,
+  .daily-table td {
+    padding: 10px 8px;
+    text-align: right;
+    border-bottom: 1px solid var(--line);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  .daily-table th:first-child,
+  .daily-table td:first-child {
+    text-align: left;
+    white-space: normal;
+  }
+
+  .daily-table thead th {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    font-weight: 500;
+    border-bottom: 1px solid var(--line-strong);
+  }
+
+  .daily-table tbody tr:last-child td {
+    border-bottom: 1px solid var(--line-strong);
+  }
+
+  .daily-table tfoot td {
+    font-weight: 700;
+    border-top: none;
+    border-bottom: none;
+    padding-top: 12px;
+  }
+
+  .daily-table .gap-chip {
+    display: inline-block;
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 0.66rem;
+    letter-spacing: 0.02em;
+    padding: 1px 7px;
+    border-radius: 999px;
+    background: var(--gold-soft);
+    color: var(--gold);
+    margin-left: 8px;
+  }
+
+  .chip-ready {
+    display: inline-block;
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.02em;
+    padding: 2px 9px;
+    border-radius: 999px;
+    background: var(--good-soft);
+    color: var(--good);
+    font-weight: 500;
+  }
+
+  .status-wait {
+    color: var(--ink-soft);
+    font-size: 0.85rem;
+  }
+
+  .status-sub {
+    display: block;
+    color: var(--ink-faint);
+    font-size: 0.72rem;
+    margin-top: 2px;
+  }
+
+  .ready-callout {
+    margin-top: 16px;
+    background: var(--good-soft);
+    border: 1px solid var(--good);
+    border-radius: 12px;
+    padding: 8px 20px;
+  }
+
+  .ready-callout .rc-title {
+    display: block;
+    font-family: "Fraunces", Georgia, serif;
+    font-weight: 600;
+    font-size: 1.15rem;
+    color: var(--good);
+    padding: 12px 0;
+  }
+
+  .ready-callout .rc-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 4px 16px;
+    padding: 12px 0;
+    border-top: 1px solid color-mix(in srgb, var(--good) 28%, transparent);
+  }
+
+  .ready-callout .rc-name {
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: var(--ink);
+  }
+
+  .ready-callout .rc-when {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 0.82rem;
+    color: var(--good);
+    font-weight: 500;
+  }
+
+  .ready-empty {
+    margin-top: 16px;
+    color: var(--ink-faint);
+    font-size: 0.9rem;
+    padding: 4px 4px 0;
+  }
+
+  @media (max-width: 480px) {
+    .wrap { padding: 32px 16px 60px; }
+    .row { grid-template-columns: 1fr; }
+    .row .when { text-align: left; }
+    .row .when .abs { display: inline; }
+  }
+</style>
+
+<div class="wrap">
+  <header>
+    <p class="eyebrow">America's Favorite Couple &middot; Vote Tracker</p>
+    <h1>Vote Ledger</h1>
+    <p class="lede">The contest dashboard only ever shows the three most recent free votes, so this page keeps a running log of every free voter it has caught (checked about once a minute), plus the donation votes for reference &mdash; with daily and all-time totals, a reminder tracker for free voters past their 24-hour cooldown, and a flag on any day a vote might have slipped through uncaught.</p>
+    <div class="stat-row" id="stat-row"></div>
+    <div id="gap-warnings"></div>
+  </header>
+
+  <section>
+    <div class="section-head">
+      <h2>Daily totals</h2>
+      <span class="section-count" id="daily-count"></span>
+    </div>
+    <div class="table-wrap">
+      <table class="daily-table">
+        <thead>
+          <tr><th>Date</th><th>Free votes</th><th>Donation votes</th><th>Total</th></tr>
+        </thead>
+        <tbody id="daily-body"></tbody>
+        <tfoot id="daily-foot"></tfoot>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>Free voters</h2>
+      <span class="section-count" id="free-count"></span>
+    </div>
+    <div class="ledger" id="free-ledger"></div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>Donation voters</h2>
+      <span class="section-count" id="donation-count"></span>
+    </div>
+    <div class="ledger" id="donation-ledger"></div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>Reminder tracker</h2>
+      <span class="section-count" id="reminder-count"></span>
+    </div>
+    <div id="ready-callout"></div>
+    <div class="table-wrap">
+      <table class="daily-table" id="waiting-table">
+        <thead>
+          <tr><th>Still in cooldown</th><th>Last voted</th><th>Eligible again</th></tr>
+        </thead>
+        <tbody id="reminder-body"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer id="footer"></footer>
+</div>
+
+<script>
+  const data = JSON.parse(document.getElementById('vote-data').textContent);
+
+  function fmtAbs(iso) {
+    if (!iso) return '';
+    const d = new Date(iso);
+    return d.toLocaleString('en-US', {
+      timeZone: data.timezone,
+      month: 'short', day: 'numeric',
+      hour: 'numeric', minute: '2-digit'
+    });
+  }
+
+  function fmtRelative(iso) {
+    const then = new Date(iso).getTime();
+    const now = Date.now();
+    const mins = Math.round((now - then) / 60000);
+    if (mins < 1) return 'just now';
+    if (mins < 60) return mins + ' min ago';
+    const hrs = Math.round(mins / 60);
+    if (hrs < 24) return hrs + (hrs === 1 ? ' hour ago' : ' hours ago');
+    const days = Math.round(hrs / 24);
+    return days + (days === 1 ? ' day ago' : ' days ago');
+  }
+
+  function dateKey(iso) {
+    // yyyy-mm-dd in the contest's timezone, sortable as a string
+    return new Date(iso).toLocaleDateString('en-CA', { timeZone: data.timezone });
+  }
+
+  function dateLabel(key) {
+    const [y, m, d] = key.split('-').map(Number);
+    const noon = new Date(Date.UTC(y, m - 1, d, 12));
+    return noon.toLocaleDateString('en-US', { timeZone: 'UTC', weekday: 'short', month: 'short', day: 'numeric' });
+  }
+
+  const freeSorted = [...data.freeVotes].sort((a, b) => new Date(b.approxTime) - new Date(a.approxTime));
+  const donationSorted = [...data.donationVotes].sort((a, b) => new Date(b.approxTime) - new Date(a.approxTime));
+
+  document.getElementById('free-count').textContent = freeSorted.length + (freeSorted.length === 1 ? ' voter' : ' voters');
+  document.getElementById('donation-count').textContent = donationSorted.length + (donationSorted.length === 1 ? ' voter' : ' voters');
+
+  const totalDonationVotes = donationSorted.reduce((s, v) => s + (v.votes || 0), 0);
+  const grandTotalVotes = freeSorted.length + totalDonationVotes;
+
+  const COOLDOWN_HOURS = 24;
+  const COOLDOWN_MS = COOLDOWN_HOURS * 60 * 60 * 1000;
+
+  function fmtCountdown(ms) {
+    const totalMin = Math.max(0, Math.ceil(ms / 60000));
+    const days = Math.floor(totalMin / 1440);
+    const hours = Math.floor((totalMin % 1440) / 60);
+    const mins = totalMin % 60;
+    if (days > 0) return `${days}d ${hours}h`;
+    if (hours > 0) return `${hours}h ${mins}m`;
+    return `${mins}m`;
+  }
+
+  const lastVotedByName = {};
+  freeSorted.forEach(v => {
+    const t = new Date(v.approxTime).getTime();
+    if (!(v.name in lastVotedByName) || t > lastVotedByName[v.name]) {
+      lastVotedByName[v.name] = t;
+    }
+  });
+
+  const nowMs = Date.now();
+  const reminderRows = Object.entries(lastVotedByName).map(([name, lastVoted]) => {
+    const eligibleAt = lastVoted + COOLDOWN_MS;
+    return { name, lastVoted, eligibleAt, ready: nowMs >= eligibleAt };
+  });
+
+  reminderRows.sort((a, b) => {
+    if (a.ready !== b.ready) return a.ready ? -1 : 1;
+    return a.ready ? (a.lastVoted - b.lastVoted) : (a.eligibleAt - b.eligibleAt);
+  });
+
+  const readyCount = reminderRows.filter(r => r.ready).length;
+
+  let nextCheckValue = '—';
+  let nextCheckLabel = 'Next check';
+  if (data.nextCheckAt) {
+    const nextMs = new Date(data.nextCheckAt).getTime();
+    nextCheckValue = nextMs > nowMs ? fmtCountdown(nextMs - nowMs) : 'due now';
+    nextCheckLabel = `Next check &middot; ${fmtAbs(nextMs)}`;
+  }
+
+  const statRow = document.getElementById('stat-row');
+  statRow.innerHTML = `
+    <div class="stat"><span class="n">${grandTotalVotes}</span><span class="l">Total votes, all time</span></div>
+    <div class="stat"><span class="n">${freeSorted.length}</span><span class="l">Free voters logged</span></div>
+    <div class="stat"><span class="n">${totalDonationVotes}</span><span class="l">Donation votes logged</span></div>
+    <div class="stat"><span class="n">${readyCount}</span><span class="l">Ready to remind</span></div>
+    <div class="stat"><span class="n">${fmtAbs(data.lastChecked)}</span><span class="l">Last checked</span></div>
+    <div class="stat"><span class="n">${nextCheckValue}</span><span class="l">${nextCheckLabel}</span></div>
+  `;
+
+  document.getElementById('reminder-count').textContent =
+    `${readyCount} ready now · ${reminderRows.length} tracked`;
+
+  const readyRows = reminderRows.filter(r => r.ready);
+  const waitingRows = reminderRows.filter(r => !r.ready);
+
+  const readyCallout = document.getElementById('ready-callout');
+  if (readyRows.length === 0) {
+    readyCallout.innerHTML = '<div class="ready-empty">Nobody has cleared their 24-hour cooldown yet — check back later.</div>';
+  } else {
+    readyCallout.innerHTML = `
+      <div class="ready-callout">
+        <span class="rc-title">${readyRows.length} ${readyRows.length === 1 ? 'voter is' : 'voters are'} ready for a reminder right now</span>
+        ${readyRows.map(r => `
+          <div class="rc-row">
+            <span class="rc-name">${r.name}</span>
+            <span class="rc-when">last voted ~${fmtRelative(r.lastVoted)}</span>
+          </div>
+        `).join('')}
+      </div>
+    `;
+  }
+
+  const reminderBody = document.getElementById('reminder-body');
+  const waitingTable = document.getElementById('waiting-table');
+  if (waitingRows.length === 0) {
+    waitingTable.style.display = 'none';
+  } else {
+    waitingTable.style.display = '';
+    reminderBody.innerHTML = waitingRows.map(r => `
+      <tr>
+        <td>${r.name}</td>
+        <td>~${fmtRelative(r.lastVoted)}<span class="status-sub">${fmtAbs(r.lastVoted)}</span></td>
+        <td style="text-align:right"><span class="status-wait">in ${fmtCountdown(r.eligibleAt - nowMs)}</span><span class="status-sub">eligible ${fmtAbs(r.eligibleAt)}</span></td>
+      </tr>
+    `).join('');
+  }
+
+  const warningsForDaily = data.gapWarnings || [];
+  const gapDays = new Set();
+  warningsForDaily.forEach(w => {
+    gapDays.add(dateKey(w.from));
+    gapDays.add(dateKey(w.to));
+  });
+
+  const dayMap = {};
+  function ensureDay(key) {
+    if (!dayMap[key]) dayMap[key] = { free: 0, donation: 0 };
+    return dayMap[key];
+  }
+  freeSorted.forEach(v => { ensureDay(dateKey(v.approxTime)).free += 1; });
+  donationSorted.forEach(v => { ensureDay(dateKey(v.approxTime)).donation += (v.votes || 0); });
+  gapDays.forEach(key => ensureDay(key));
+
+  const dayKeys = Object.keys(dayMap).sort().reverse();
+  document.getElementById('daily-count').textContent = dayKeys.length + (dayKeys.length === 1 ? ' day' : ' days');
+
+  const dailyBody = document.getElementById('daily-body');
+  if (dayKeys.length === 0) {
+    dailyBody.innerHTML = '<tr><td colspan="4" class="empty">No votes logged yet.</td></tr>';
+  } else {
+    dailyBody.innerHTML = dayKeys.map(key => {
+      const day = dayMap[key];
+      const total = day.free + day.donation;
+      const gapChip = gapDays.has(key) ? '<span class="gap-chip">gap risk</span>' : '';
+      return `
+        <tr>
+          <td>${dateLabel(key)}${gapChip}</td>
+          <td>${day.free}</td>
+          <td>${day.donation}</td>
+          <td>${total}</td>
+        </tr>
+      `;
+    }).join('');
+  }
+
+  document.getElementById('daily-foot').innerHTML = `
+    <tr>
+      <td>All time</td>
+      <td>${freeSorted.length}</td>
+      <td>${totalDonationVotes}</td>
+      <td>${grandTotalVotes}</td>
+    </tr>
+  `;
+
+  const gapBox = document.getElementById('gap-warnings');
+  const warnings = data.gapWarnings || [];
+  if (warnings.length === 0) {
+    gapBox.innerHTML = '';
+  } else {
+    gapBox.innerHTML = `
+      <div class="warning-box">
+        <span class="w-title">Possible gaps &mdash; all 3 slots turned over between checks</span>
+        <ul>
+          ${warnings.map(w => `<li>Between ${fmtAbs(w.from)} and ${fmtAbs(w.to)} &mdash; can't confirm every free voter in this window was caught.</li>`).join('')}
+        </ul>
+      </div>
+    `;
+  }
+
+  const freeLedger = document.getElementById('free-ledger');
+  if (freeSorted.length === 0) {
+    freeLedger.innerHTML = '<div class="empty">No free votes logged yet.</div>';
+  } else {
+    freeLedger.innerHTML = freeSorted.map(v => `
+      <div class="row">
+        <div class="name">${v.name}</div>
+        <div class="when">~${fmtRelative(v.approxTime)}<span class="abs">${fmtAbs(v.approxTime)}</span></div>
+      </div>
+    `).join('');
+  }
+
+  const donationLedger = document.getElementById('donation-ledger');
+  if (donationSorted.length === 0) {
+    donationLedger.innerHTML = '<div class="empty">No donation votes logged yet.</div>';
+  } else {
+    donationLedger.innerHTML = donationSorted.map(v => `
+      <div class="row">
+        <div class="name">${v.name}<span class="chip">${v.votes} votes</span></div>
+        <div class="when">~${fmtRelative(v.approxTime)}<span class="abs">${fmtAbs(v.approxTime)}</span></div>
+        ${v.comment ? `<div class="comment">&ldquo;${v.comment}&rdquo;</div>` : ''}
+      </div>
+    `).join('');
+  }
+
+  document.getElementById('footer').innerHTML = `
+    Times are approximate &mdash; the dashboard only reports relative times ("20 minutes ago"), so entries are
+    timestamped when spotted, not to the second, and daily totals group votes by the day they approximately landed
+    on in ${data.timezone.split('/')[1].replace('_', ' ')} time. Because only the 3 most recent free votes are ever
+    visible at once, the tracker checks about once a minute &mdash; at that pace, a vote can only slip through
+    unseen if more than 3 people vote inside a single minute. A "gap risk" chip
+    on a day in the daily totals means at least one check that day found all 3 free-vote slots turned over at once,
+    so that day's free vote count may be an undercount. The reminder tracker assumes each free voter can vote again
+    24 hours after their last logged vote &mdash; "ready to remind" means that window has passed based on the most
+    recent vote seen for them, but if an earlier vote from them was ever missed (see gap risk above), they could
+    already be eligible sooner than shown. The "Next check" stat is when the tracker is scheduled to look again
+    &mdash; it depends on the tracker still running on Mitch's computer, so if it's showing a time well in the
+    past, the tracker has stopped and needs a restart. Treat all totals here as a floor, not a guaranteed exact
+    count. This page auto-refreshes every minute so shared viewers stay in sync with the latest checks. Source:
+    <a href="${data.contestUrl}" target="_blank" rel="noopener">contest dashboard</a>.
+  `;
+
+  setTimeout(() => { window.location.reload(); }, 60000);
+</script>
