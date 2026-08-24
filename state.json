@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-24T03:11:15-04:00",
+  "lastChecked": "2026-08-24T05:30:06-04:00",
   "freeVotes": [
+    {
+      "name": "Tom Yee",
+      "approxTime": "2026-08-24T05:29:41-04:00",
+      "relativeAtCapture": "25 seconds ago",
+      "firstLogged": "2026-08-24T05:30:06-04:00"
+    },
     {
       "name": "Arghya Sinha Roy",
       "approxTime": "2026-08-24T03:11:11-04:00",
