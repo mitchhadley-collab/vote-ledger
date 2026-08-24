@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-24T18:58:04-04:00",
+  "lastChecked": "2026-08-24T19:04:19-04:00",
   "freeVotes": [
+    {
+      "name": "Phyllis DiStefano",
+      "approxTime": "2026-08-24T19:03:56-04:00",
+      "relativeAtCapture": "23 seconds ago",
+      "firstLogged": "2026-08-24T19:04:19-04:00"
+    },
     {
       "name": "David Hoynacki",
       "approxTime": "2026-08-24T18:57:50-04:00",
