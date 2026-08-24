@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-23T23:04:47-04:00",
+  "lastChecked": "2026-08-23T23:37:56-04:00",
   "freeVotes": [
+    {
+      "name": "Jordan Hadley",
+      "approxTime": "2026-08-23T23:37:06-04:00",
+      "relativeAtCapture": "50 seconds ago",
+      "firstLogged": "2026-08-23T23:37:56-04:00"
+    },
     {
       "name": "Kayloni Feinauer",
       "approxTime": "2026-08-23T23:04:43-04:00",
