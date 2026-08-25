@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-25T09:54:22-04:00",
+  "lastChecked": "2026-08-25T09:57:30-04:00",
   "freeVotes": [
+    {
+      "name": "Steve Blakeslee",
+      "approxTime": "2026-08-25T09:56:41-04:00",
+      "relativeAtCapture": "49 seconds ago",
+      "firstLogged": "2026-08-25T09:57:30-04:00"
+    },
     {
       "name": "Zach Jun Hyuk Hong",
       "approxTime": "2026-08-25T09:35:16-04:00",
