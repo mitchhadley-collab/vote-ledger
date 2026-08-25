@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-25T18:24:48-04:00",
+  "lastChecked": "2026-08-25T19:02:07-04:00",
   "freeVotes": [
+    {
+      "name": "Phyllis DiStefano",
+      "approxTime": "2026-08-25T19:02:06-04:00",
+      "relativeAtCapture": "1 second ago",
+      "firstLogged": "2026-08-25T19:02:07-04:00"
+    },
     {
       "name": "Joseph Lopez",
       "approxTime": "2026-08-25T18:24:11-04:00",
