@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-25T09:20:06-04:00",
+  "lastChecked": "2026-08-25T09:35:40-04:00",
   "freeVotes": [
+    {
+      "name": "Zach Jun Hyuk Hong",
+      "approxTime": "2026-08-25T09:35:16-04:00",
+      "relativeAtCapture": "24 seconds ago",
+      "firstLogged": "2026-08-25T09:35:40-04:00"
+    },
     {
       "name": "Mitchell Hadley",
       "approxTime": "2026-08-25T09:19:06-04:00",
