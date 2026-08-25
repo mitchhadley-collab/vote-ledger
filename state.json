@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-25T15:29:05-04:00",
+  "lastChecked": "2026-08-25T15:33:15-04:00",
   "freeVotes": [
+    {
+      "name": "Rama Krishna",
+      "approxTime": "2026-08-25T15:33:05-04:00",
+      "relativeAtCapture": "10 seconds ago",
+      "firstLogged": "2026-08-25T15:33:15-04:00"
+    },
     {
       "name": "Bill McLinden",
       "approxTime": "2026-08-25T15:28:43-04:00",
