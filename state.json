@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-25T17:22:22-04:00",
+  "lastChecked": "2026-08-25T17:25:31-04:00",
   "freeVotes": [
+    {
+      "name": "Sarah Stiles",
+      "approxTime": "2026-08-25T17:25:12-04:00",
+      "relativeAtCapture": "19 seconds ago",
+      "firstLogged": "2026-08-25T17:25:31-04:00"
+    },
     {
       "name": "R.K. Handa",
       "approxTime": "2026-08-25T17:21:48-04:00",
