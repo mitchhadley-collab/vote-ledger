@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-25T13:55:27-04:00",
+  "lastChecked": "2026-08-25T14:19:20-04:00",
   "freeVotes": [
+    {
+      "name": "Joseph DiStefano",
+      "approxTime": "2026-08-25T14:18:36-04:00",
+      "relativeAtCapture": "44 seconds ago",
+      "firstLogged": "2026-08-25T14:19:20-04:00"
+    },
     {
       "name": "Brian Hadley",
       "approxTime": "2026-08-25T13:54:48-04:00",
