@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-25T07:36:28-04:00",
+  "lastChecked": "2026-08-25T07:53:03-04:00",
   "freeVotes": [
+    {
+      "name": "Kelly Stiles",
+      "approxTime": "2026-08-25T07:52:05-04:00",
+      "relativeAtCapture": "58 seconds ago",
+      "firstLogged": "2026-08-25T07:53:03-04:00"
+    },
     {
       "name": "Raj Narahonam",
       "approxTime": "2026-08-25T07:36:17-04:00",
