@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-24T22:45:33-04:00",
+  "lastChecked": "2026-08-24T23:13:33-04:00",
   "freeVotes": [
+    {
+      "name": "Camille Larsen Hadley",
+      "approxTime": "2026-08-24T23:12:37-04:00",
+      "relativeAtCapture": "56 seconds ago",
+      "firstLogged": "2026-08-24T23:13:33-04:00"
+    },
     {
       "name": "David Lee",
       "approxTime": "2026-08-24T22:45:26-04:00",
