@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-25T15:39:29-04:00",
+  "lastChecked": "2026-08-25T15:42:38-04:00",
   "freeVotes": [
+    {
+      "name": "Ernesto Arbanil",
+      "approxTime": "2026-08-25T15:42:01-04:00",
+      "relativeAtCapture": "37 seconds ago",
+      "firstLogged": "2026-08-25T15:42:38-04:00"
+    },
     {
       "name": "Catherine Chamberland",
       "approxTime": "2026-08-25T15:38:36-04:00",
