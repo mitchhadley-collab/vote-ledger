@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-25T19:37:14-04:00",
+  "lastChecked": "2026-08-25T19:46:35-04:00",
   "freeVotes": [
+    {
+      "name": "Joey Gerber",
+      "approxTime": "2026-08-25T19:45:35-04:00",
+      "relativeAtCapture": "1 minute ago",
+      "firstLogged": "2026-08-25T19:46:35-04:00"
+    },
     {
       "name": "Janet Gunnell",
       "approxTime": "2026-08-25T19:36:19-04:00",
