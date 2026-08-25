@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-25T19:02:07-04:00",
+  "lastChecked": "2026-08-25T19:16:24-04:00",
   "freeVotes": [
+    {
+      "name": "Serina Anderson",
+      "approxTime": "2026-08-25T19:16:21-04:00",
+      "relativeAtCapture": "3 seconds ago",
+      "firstLogged": "2026-08-25T19:16:24-04:00"
+    },
     {
       "name": "Phyllis DiStefano",
       "approxTime": "2026-08-25T19:02:06-04:00",
