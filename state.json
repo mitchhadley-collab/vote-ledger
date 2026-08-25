@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-24T20:23:18-04:00",
+  "lastChecked": "2026-08-24T20:36:47-04:00",
   "freeVotes": [
+    {
+      "name": "Chris McGovern",
+      "approxTime": "2026-08-24T20:36:01-04:00",
+      "relativeAtCapture": "46 seconds ago",
+      "firstLogged": "2026-08-24T20:36:47-04:00"
+    },
     {
       "name": "Chris HD",
       "approxTime": "2026-08-24T20:22:32-04:00",
