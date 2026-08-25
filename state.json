@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-25T17:42:20-04:00",
+  "lastChecked": "2026-08-25T17:55:48-04:00",
   "freeVotes": [
+    {
+      "name": "Jorge Fernandez",
+      "approxTime": "2026-08-25T17:55:27-04:00",
+      "relativeAtCapture": "21 seconds ago",
+      "firstLogged": "2026-08-25T17:55:48-04:00"
+    },
     {
       "name": "Jeffery Liuzzi",
       "approxTime": "2026-08-25T17:42:12-04:00",
