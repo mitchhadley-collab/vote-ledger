@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-25T13:07:26-04:00",
+  "lastChecked": "2026-08-25T13:24:02-04:00",
   "freeVotes": [
+    {
+      "name": "Phani Suhas",
+      "approxTime": "2026-08-25T13:23:43-04:00",
+      "relativeAtCapture": "19 seconds ago",
+      "firstLogged": "2026-08-25T13:24:02-04:00"
+    },
     {
       "name": "Rahul Reddy",
       "approxTime": "2026-08-25T13:06:39-04:00",
