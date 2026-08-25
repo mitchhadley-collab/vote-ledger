@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-25T10:21:21-04:00",
+  "lastChecked": "2026-08-25T10:32:46-04:00",
   "freeVotes": [
+    {
+      "name": "Giovanna Maria Vee",
+      "approxTime": "2026-08-25T10:32:36-04:00",
+      "relativeAtCapture": "10 seconds ago",
+      "firstLogged": "2026-08-25T10:32:46-04:00"
+    },
     {
       "name": "Maegan Assaf",
       "approxTime": "2026-08-25T10:20:59-04:00",
