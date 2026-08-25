@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-25T12:55:58-04:00",
+  "lastChecked": "2026-08-25T13:02:13-04:00",
   "freeVotes": [
+    {
+      "name": "Agro Pianta",
+      "approxTime": "2026-08-25T13:01:48-04:00",
+      "relativeAtCapture": "25 seconds ago",
+      "firstLogged": "2026-08-25T13:02:13-04:00"
+    },
     {
       "name": "Sai Pranay",
       "approxTime": "2026-08-25T12:55:27-04:00",
