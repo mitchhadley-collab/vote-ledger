@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-25T11:48:31-04:00",
+  "lastChecked": "2026-08-25T12:16:27-04:00",
   "freeVotes": [
+    {
+      "name": "Anu Nandini Gupta",
+      "approxTime": "2026-08-25T12:16:00-04:00",
+      "relativeAtCapture": "27 seconds ago",
+      "firstLogged": "2026-08-25T12:16:27-04:00"
+    },
     {
       "name": "Jamie Jaffe",
       "approxTime": "2026-08-25T11:48:01-04:00",
