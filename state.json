@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-25T12:28:55-04:00",
+  "lastChecked": "2026-08-25T12:37:13-04:00",
   "freeVotes": [
+    {
+      "name": "Arun Kumar",
+      "approxTime": "2026-08-25T12:36:19-04:00",
+      "relativeAtCapture": "54 seconds ago",
+      "firstLogged": "2026-08-25T12:37:13-04:00"
+    },
     {
       "name": "Mario DiLeonardo",
       "approxTime": "2026-08-25T12:28:07-04:00",
