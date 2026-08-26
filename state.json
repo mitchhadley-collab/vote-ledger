@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T10:07:26-04:00",
+  "lastChecked": "2026-08-26T10:19:54-04:00",
   "freeVotes": [
+    {
+      "name": "Jordan Hoch",
+      "approxTime": "2026-08-26T10:19:01-04:00",
+      "relativeAtCapture": "53 seconds ago",
+      "firstLogged": "2026-08-26T10:19:54-04:00"
+    },
     {
       "name": "Rick Williams",
       "approxTime": "2026-08-26T10:06:56-04:00",
