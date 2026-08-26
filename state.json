@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T16:25:07-04:00",
+  "lastChecked": "2026-08-26T16:28:14-04:00",
   "freeVotes": [
+    {
+      "name": "Brian Hadley",
+      "approxTime": "2026-08-26T16:28:08-04:00",
+      "relativeAtCapture": "6 seconds ago",
+      "firstLogged": "2026-08-26T16:28:14-04:00"
+    },
     {
       "name": "Jubilee Ajemigbitse",
       "approxTime": "2026-08-26T16:24:26-04:00",
