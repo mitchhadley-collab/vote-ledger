@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T19:04:06-04:00",
+  "lastChecked": "2026-08-26T19:22:45-04:00",
   "freeVotes": [
+    {
+      "name": "Janet Gunnell",
+      "approxTime": "2026-08-26T19:22:44-04:00",
+      "relativeAtCapture": "1 second ago",
+      "firstLogged": "2026-08-26T19:22:45-04:00"
+    },
     {
       "name": "Helen Yee",
       "approxTime": "2026-08-26T19:03:09-04:00",
