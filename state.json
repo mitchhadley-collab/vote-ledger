@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T15:18:45-04:00",
+  "lastChecked": "2026-08-26T15:20:51-04:00",
   "freeVotes": [
+    {
+      "name": "Raikanti Rohan",
+      "approxTime": "2026-08-26T15:20:21-04:00",
+      "relativeAtCapture": "30 seconds ago",
+      "firstLogged": "2026-08-26T15:20:51-04:00"
+    },
     {
       "name": "Bill McLinden",
       "approxTime": "2026-08-26T15:18:27-04:00",
