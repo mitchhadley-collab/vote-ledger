@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T19:22:45-04:00",
+  "lastChecked": "2026-08-26T19:26:55-04:00",
   "freeVotes": [
+    {
+      "name": "Serina Anderson",
+      "approxTime": "2026-08-26T19:26:13-04:00",
+      "relativeAtCapture": "42 seconds ago",
+      "firstLogged": "2026-08-26T19:26:55-04:00"
+    },
     {
       "name": "Janet Gunnell",
       "approxTime": "2026-08-26T19:22:44-04:00",
