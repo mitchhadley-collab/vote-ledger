@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T19:45:36-04:00",
+  "lastChecked": "2026-08-26T19:46:39-04:00",
   "freeVotes": [
+    {
+      "name": "Lorin Ann",
+      "approxTime": "2026-08-26T19:45:46-04:00",
+      "relativeAtCapture": "53 seconds ago",
+      "firstLogged": "2026-08-26T19:46:39-04:00"
+    },
     {
       "name": "Chris HD",
       "approxTime": "2026-08-26T19:44:55-04:00",
