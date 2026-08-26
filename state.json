@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T17:18:09-04:00",
+  "lastChecked": "2026-08-26T17:29:33-04:00",
   "freeVotes": [
+    {
+      "name": "Sarah Stiles",
+      "approxTime": "2026-08-26T17:28:49-04:00",
+      "relativeAtCapture": "44 seconds ago",
+      "firstLogged": "2026-08-26T17:29:33-04:00"
+    },
     {
       "name": "Felix Lempert",
       "approxTime": "2026-08-26T17:17:34-04:00",
