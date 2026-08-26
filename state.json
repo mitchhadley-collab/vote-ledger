@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T19:26:55-04:00",
+  "lastChecked": "2026-08-26T19:35:14-04:00",
   "freeVotes": [
+    {
+      "name": "David Hoynacki",
+      "approxTime": "2026-08-26T19:34:27-04:00",
+      "relativeAtCapture": "47 seconds ago",
+      "firstLogged": "2026-08-26T19:35:14-04:00"
+    },
     {
       "name": "Serina Anderson",
       "approxTime": "2026-08-26T19:26:13-04:00",
