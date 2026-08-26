@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-25T22:28:27-04:00",
+  "lastChecked": "2026-08-25T22:39:50-04:00",
   "freeVotes": [
+    {
+      "name": "Jamie Barber",
+      "approxTime": "2026-08-25T22:39:46-04:00",
+      "relativeAtCapture": "4 seconds ago",
+      "firstLogged": "2026-08-25T22:39:50-04:00"
+    },
     {
       "name": "Katrina Dudley",
       "approxTime": "2026-08-25T22:27:28-04:00",
