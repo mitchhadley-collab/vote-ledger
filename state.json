@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-25T20:37:29-04:00",
+  "lastChecked": "2026-08-25T20:53:01-04:00",
   "freeVotes": [
+    {
+      "name": "Bryan Weinstein",
+      "approxTime": "2026-08-25T20:52:36-04:00",
+      "relativeAtCapture": "25 seconds ago",
+      "firstLogged": "2026-08-25T20:53:01-04:00"
+    },
     {
       "name": "Chris McGovern",
       "approxTime": "2026-08-25T20:37:18-04:00",
