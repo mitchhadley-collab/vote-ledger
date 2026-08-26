@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T18:43:16-04:00",
+  "lastChecked": "2026-08-26T18:49:30-04:00",
   "freeVotes": [
+    {
+      "name": "Anne Beatty Devereaux",
+      "approxTime": "2026-08-26T18:48:57-04:00",
+      "relativeAtCapture": "33 seconds ago",
+      "firstLogged": "2026-08-26T18:49:30-04:00"
+    },
     {
       "name": "Ryan Newell",
       "approxTime": "2026-08-26T18:43:15-04:00",
