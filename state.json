@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T17:11:55-04:00",
+  "lastChecked": "2026-08-26T17:18:09-04:00",
   "freeVotes": [
+    {
+      "name": "Felix Lempert",
+      "approxTime": "2026-08-26T17:17:34-04:00",
+      "relativeAtCapture": "35 seconds ago",
+      "firstLogged": "2026-08-26T17:18:09-04:00"
+    },
     {
       "name": "R.K. Handa",
       "approxTime": "2026-08-26T17:11:52-04:00",
