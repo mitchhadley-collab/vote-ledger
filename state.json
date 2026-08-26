@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T18:38:02-04:00",
+  "lastChecked": "2026-08-26T18:43:16-04:00",
   "freeVotes": [
+    {
+      "name": "Ryan Newell",
+      "approxTime": "2026-08-26T18:43:15-04:00",
+      "relativeAtCapture": "1 second ago",
+      "firstLogged": "2026-08-26T18:43:16-04:00"
+    },
     {
       "name": "Israel Bien",
       "approxTime": "2026-08-26T18:37:02-04:00",
