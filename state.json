@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T06:13:04-04:00",
+  "lastChecked": "2026-08-26T07:17:19-04:00",
   "freeVotes": [
+    {
+      "name": "Robert Matthew",
+      "approxTime": "2026-08-26T07:16:21-04:00",
+      "relativeAtCapture": "58 seconds ago",
+      "firstLogged": "2026-08-26T07:17:19-04:00"
+    },
     {
       "name": "Jeffrey Omorodion Ikhinmwin",
       "approxTime": "2026-08-26T06:12:09-04:00",
