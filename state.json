@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T12:47:04-04:00",
+  "lastChecked": "2026-08-26T13:00:33-04:00",
   "freeVotes": [
+    {
+      "name": "Jenna Whitney",
+      "approxTime": "2026-08-26T13:00:07-04:00",
+      "relativeAtCapture": "26 seconds ago",
+      "firstLogged": "2026-08-26T13:00:33-04:00"
+    },
     {
       "name": "Haley Anthonisen",
       "approxTime": "2026-08-26T12:46:31-04:00",
