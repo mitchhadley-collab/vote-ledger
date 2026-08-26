@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-25T22:09:47-04:00",
+  "lastChecked": "2026-08-25T22:24:16-04:00",
   "freeVotes": [
+    {
+      "name": "Michael Koecher",
+      "approxTime": "2026-08-25T22:23:30-04:00",
+      "relativeAtCapture": "46 seconds ago",
+      "firstLogged": "2026-08-25T22:24:16-04:00"
+    },
     {
       "name": "Nader Parvin",
       "approxTime": "2026-08-25T22:08:47-04:00",
