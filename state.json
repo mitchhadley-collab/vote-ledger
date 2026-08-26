@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T19:35:14-04:00",
+  "lastChecked": "2026-08-26T19:45:36-04:00",
   "freeVotes": [
+    {
+      "name": "Chris HD",
+      "approxTime": "2026-08-26T19:44:55-04:00",
+      "relativeAtCapture": "41 seconds ago",
+      "firstLogged": "2026-08-26T19:45:36-04:00"
+    },
     {
       "name": "David Hoynacki",
       "approxTime": "2026-08-26T19:34:27-04:00",
