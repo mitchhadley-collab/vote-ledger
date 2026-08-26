@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T16:55:17-04:00",
+  "lastChecked": "2026-08-26T17:09:49-04:00",
   "freeVotes": [
+    {
+      "name": "Elle Joy",
+      "approxTime": "2026-08-26T17:09:32-04:00",
+      "relativeAtCapture": "17 seconds ago",
+      "firstLogged": "2026-08-26T17:09:49-04:00"
+    },
     {
       "name": "Xiaoou Jin",
       "approxTime": "2026-08-26T16:54:47-04:00",
