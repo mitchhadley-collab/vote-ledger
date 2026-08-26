@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T01:12:18-04:00",
+  "lastChecked": "2026-08-26T06:13:04-04:00",
   "freeVotes": [
+    {
+      "name": "Jeffrey Omorodion Ikhinmwin",
+      "approxTime": "2026-08-26T06:12:09-04:00",
+      "relativeAtCapture": "55 seconds ago",
+      "firstLogged": "2026-08-26T06:13:04-04:00"
+    },
     {
       "name": "Swarna Latha Pala",
       "approxTime": "2026-08-26T01:11:32-04:00",
