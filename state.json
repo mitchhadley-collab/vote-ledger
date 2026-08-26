@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T19:00:58-04:00",
+  "lastChecked": "2026-08-26T19:04:06-04:00",
   "freeVotes": [
+    {
+      "name": "Helen Yee",
+      "approxTime": "2026-08-26T19:03:09-04:00",
+      "relativeAtCapture": "57 seconds ago",
+      "firstLogged": "2026-08-26T19:04:06-04:00"
+    },
     {
       "name": "Steve Blakeslee",
       "approxTime": "2026-08-26T19:00:03-04:00",
