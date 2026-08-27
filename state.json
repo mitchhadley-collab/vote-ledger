@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-27T12:57:10-04:00",
+  "lastChecked": "2026-08-27T13:04:29-04:00",
   "freeVotes": [
+    {
+      "name": "Ofknee Sha",
+      "approxTime": "2026-08-27T13:03:46-04:00",
+      "relativeAtCapture": "43 seconds ago",
+      "firstLogged": "2026-08-27T13:04:29-04:00"
+    },
     {
       "name": "Ethan Kluesner",
       "approxTime": "2026-08-27T12:56:28-04:00",
