@@ -7,8 +7,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T21:20:15-04:00",
+  "lastChecked": "2026-08-26T21:30:38-04:00",
   "freeVotes": [
+    {
+      "name": "Nadia Despain",
+      "approxTime": "2026-08-26T21:30:05-04:00",
+      "relativeAtCapture": "33 seconds ago",
+      "firstLogged": "2026-08-26T21:30:38-04:00"
+    },
     {
       "name": "Dallin Laycock",
       "approxTime": "2026-08-26T21:19:45-04:00",
@@ -1981,7 +1987,7 @@
       "to": "2026-08-26T14:00:48-04:00"
     }
   ],
-  "nextCheckAt": "2026-08-26T21:21:15.022469-04:00"
+  "nextCheckAt": "2026-08-26T21:31:38.318432-04:00"
 }
 </script>
 
@@ -2174,6 +2180,20 @@
 
   .row:last-child { border-bottom: none; }
 
+  /* Free voters only: this list grows every day and would otherwise push
+     everything below it (donation voters, reminders, footer) further and
+     further down the page. Capping its height and scrolling internally
+     keeps the page length stable regardless of how long the contest runs. */
+  .ledger-scroll {
+    max-height: 480px;
+    overflow-y: auto;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 0 12px;
+  }
+
+  .ledger-scroll .row:last-child { border-bottom: none; }
+
   .row .name {
     font-weight: 600;
     font-size: 0.98rem;
@@ -2231,6 +2251,10 @@
   }
 
   footer a { color: var(--accent); }
+
+  #gap-warnings:not(:empty) {
+    margin-top: 40px;
+  }
 
   .warning-box {
     margin-top: 16px;
@@ -2409,7 +2433,6 @@
     <h1>Vote Ledger</h1>
     <p class="lede">The contest dashboard only ever shows the three most recent free votes, so this page keeps a running log of every free voter it has caught (checked about once a minute), plus the donation votes for reference &mdash; with daily and all-time totals, a reminder tracker for free voters past their 24-hour cooldown, and a flag on any day a vote might have slipped through uncaught.</p>
     <div class="stat-row" id="stat-row"></div>
-    <div id="gap-warnings"></div>
   </header>
 
   <section>
@@ -2433,7 +2456,7 @@
       <h2>Free voters</h2>
       <span class="section-count" id="free-count"></span>
     </div>
-    <div class="ledger" id="free-ledger"></div>
+    <div class="ledger ledger-scroll" id="free-ledger"></div>
   </section>
 
   <section>
@@ -2441,7 +2464,7 @@
       <h2>Donation voters</h2>
       <span class="section-count" id="donation-count"></span>
     </div>
-    <div class="ledger" id="donation-ledger"></div>
+    <div class="ledger ledger-scroll" id="donation-ledger"></div>
   </section>
 
   <section>
@@ -2459,6 +2482,8 @@
       </table>
     </div>
   </section>
+
+  <div id="gap-warnings"></div>
 
   <footer id="footer"></footer>
 </div>
@@ -2542,22 +2567,11 @@
 
   const readyCount = reminderRows.filter(r => r.ready).length;
 
-  let nextCheckValue = '—';
-  let nextCheckLabel = 'Next check';
-  if (data.nextCheckAt) {
-    const nextMs = new Date(data.nextCheckAt).getTime();
-    nextCheckValue = nextMs > nowMs ? fmtCountdown(nextMs - nowMs) : 'due now';
-    nextCheckLabel = `Next check &middot; ${fmtAbs(nextMs)}`;
-  }
-
   const statRow = document.getElementById('stat-row');
   statRow.innerHTML = `
     <div class="stat"><span class="n">${grandTotalVotes}</span><span class="l">Total votes, all time</span></div>
     <div class="stat"><span class="n">${freeSorted.length}</span><span class="l">Free voters logged</span></div>
     <div class="stat"><span class="n">${totalDonationVotes}</span><span class="l">Donation votes logged</span></div>
-    <div class="stat"><span class="n">${readyCount}</span><span class="l">Ready to remind</span></div>
-    <div class="stat"><span class="n">${fmtAbs(data.lastChecked)}</span><span class="l">Last checked</span></div>
-    <div class="stat"><span class="n">${nextCheckValue}</span><span class="l">${nextCheckLabel}</span></div>
   `;
 
   document.getElementById('reminder-count').textContent =
@@ -2695,9 +2709,7 @@
     so that day's free vote count may be an undercount. The reminder tracker assumes each free voter can vote again
     24 hours after their last logged vote &mdash; "ready to remind" means that window has passed based on the most
     recent vote seen for them, but if an earlier vote from them was ever missed (see gap risk above), they could
-    already be eligible sooner than shown. The "Next check" stat is when the tracker is scheduled to look again
-    &mdash; it depends on the tracker still running on Mitch's computer, so if it's showing a time well in the
-    past, the tracker has stopped and needs a restart. Treat all totals here as a floor, not a guaranteed exact
+    already be eligible sooner than shown. Treat all totals here as a floor, not a guaranteed exact
     count. This page auto-refreshes every minute so shared viewers stay in sync with the latest checks. Source:
     <a href="${data.contestUrl}" target="_blank" rel="noopener">contest dashboard</a>.
   `;
