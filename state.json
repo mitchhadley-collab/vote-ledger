@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-27T11:00:57-04:00",
+  "lastChecked": "2026-08-27T11:32:05-04:00",
   "freeVotes": [
+    {
+      "name": "Kelley Kay",
+      "approxTime": "2026-08-27T11:31:40-04:00",
+      "relativeAtCapture": "25 seconds ago",
+      "firstLogged": "2026-08-27T11:32:05-04:00"
+    },
     {
       "name": "Rick Williams",
       "approxTime": "2026-08-27T11:00:52-04:00",
