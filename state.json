@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-27T00:48:54-04:00",
+  "lastChecked": "2026-08-27T01:10:43-04:00",
   "freeVotes": [
+    {
+      "name": "Jordan Gottdank",
+      "approxTime": "2026-08-27T01:10:38-04:00",
+      "relativeAtCapture": "5 seconds ago",
+      "firstLogged": "2026-08-27T01:10:43-04:00"
+    },
     {
       "name": "Joey Gerber",
       "approxTime": "2026-08-27T00:48:15-04:00",
