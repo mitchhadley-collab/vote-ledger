@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T21:43:09-04:00",
+  "lastChecked": "2026-08-26T22:03:52-04:00",
   "freeVotes": [
+    {
+      "name": "Kristy Grimm",
+      "approxTime": "2026-08-26T22:03:36-04:00",
+      "relativeAtCapture": "16 seconds ago",
+      "firstLogged": "2026-08-26T22:03:52-04:00"
+    },
     {
       "name": "Nageshwar Rao Avadhanula",
       "approxTime": "2026-08-26T21:42:28-04:00",
