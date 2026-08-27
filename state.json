@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-27T14:14:08-04:00",
+  "lastChecked": "2026-08-27T14:29:41-04:00",
   "freeVotes": [
+    {
+      "name": "April Hadley",
+      "approxTime": "2026-08-27T14:29:06-04:00",
+      "relativeAtCapture": "35 seconds ago",
+      "firstLogged": "2026-08-27T14:29:41-04:00"
+    },
     {
       "name": "David Huber",
       "approxTime": "2026-08-27T14:13:54-04:00",
