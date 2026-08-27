@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-27T13:24:14-04:00",
+  "lastChecked": "2026-08-27T13:29:26-04:00",
   "freeVotes": [
+    {
+      "name": "Kelly Stiles",
+      "approxTime": "2026-08-27T13:28:44-04:00",
+      "relativeAtCapture": "42 seconds ago",
+      "firstLogged": "2026-08-27T13:29:26-04:00"
+    },
     {
       "name": "Maegan Assaf",
       "approxTime": "2026-08-27T13:23:46-04:00",
