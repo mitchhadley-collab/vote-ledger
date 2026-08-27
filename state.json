@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T21:03:39-04:00",
+  "lastChecked": "2026-08-26T21:14:01-04:00",
   "freeVotes": [
+    {
+      "name": "Umme Qulsum",
+      "approxTime": "2026-08-26T21:13:57-04:00",
+      "relativeAtCapture": "4 seconds ago",
+      "firstLogged": "2026-08-26T21:14:01-04:00"
+    },
     {
       "name": "Julianna Russo",
       "approxTime": "2026-08-26T21:03:00-04:00",
