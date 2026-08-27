@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-27T13:47:07-04:00",
+  "lastChecked": "2026-08-27T13:56:29-04:00",
   "freeVotes": [
+    {
+      "name": "Jacqueline Horton",
+      "approxTime": "2026-08-27T13:55:51-04:00",
+      "relativeAtCapture": "38 seconds ago",
+      "firstLogged": "2026-08-27T13:56:29-04:00"
+    },
     {
       "name": "Tom Yee",
       "approxTime": "2026-08-27T13:46:30-04:00",
