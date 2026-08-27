@@ -1,8 +1,20 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-27T16:19:33-04:00",
+  "lastChecked": "2026-08-27T16:54:46-04:00",
   "freeVotes": [
+    {
+      "name": "Bill McLinden",
+      "approxTime": "2026-08-27T16:54:38-04:00",
+      "relativeAtCapture": "8 seconds ago",
+      "firstLogged": "2026-08-27T16:54:46-04:00"
+    },
+    {
+      "name": "Xiaoou Jin",
+      "approxTime": "2026-08-27T16:54:38-04:00",
+      "relativeAtCapture": "8 seconds ago",
+      "firstLogged": "2026-08-27T16:54:46-04:00"
+    },
     {
       "name": "David Grimm",
       "approxTime": "2026-08-27T16:19:27-04:00",
