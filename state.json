@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-27T08:00:26-04:00",
+  "lastChecked": "2026-08-27T08:01:30-04:00",
   "freeVotes": [
+    {
+      "name": "Katrina Dudley",
+      "approxTime": "2026-08-27T08:00:44-04:00",
+      "relativeAtCapture": "46 seconds ago",
+      "firstLogged": "2026-08-27T08:01:30-04:00"
+    },
     {
       "name": "Robert Matthew",
       "approxTime": "2026-08-27T07:59:54-04:00",
