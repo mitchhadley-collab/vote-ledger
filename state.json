@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T20:21:57-04:00",
+  "lastChecked": "2026-08-26T20:25:05-04:00",
   "freeVotes": [
+    {
+      "name": "Binni Liu",
+      "approxTime": "2026-08-26T20:24:52-04:00",
+      "relativeAtCapture": "13 seconds ago",
+      "firstLogged": "2026-08-26T20:25:05-04:00"
+    },
     {
       "name": "Brendan Bakst",
       "approxTime": "2026-08-26T20:21:09-04:00",
