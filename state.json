@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-27T10:43:15-04:00",
+  "lastChecked": "2026-08-27T10:45:21-04:00",
   "freeVotes": [
+    {
+      "name": "Arghya Sinha Roy",
+      "approxTime": "2026-08-27T10:45:12-04:00",
+      "relativeAtCapture": "9 seconds ago",
+      "firstLogged": "2026-08-27T10:45:21-04:00"
+    },
     {
       "name": "Jordan Hoch",
       "approxTime": "2026-08-27T10:42:43-04:00",
