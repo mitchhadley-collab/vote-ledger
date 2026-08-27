@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-27T08:01:30-04:00",
+  "lastChecked": "2026-08-27T08:39:53-04:00",
   "freeVotes": [
+    {
+      "name": "Mitchell Hadley",
+      "approxTime": "2026-08-27T08:39:31-04:00",
+      "relativeAtCapture": "22 seconds ago",
+      "firstLogged": "2026-08-27T08:39:53-04:00"
+    },
     {
       "name": "Katrina Dudley",
       "approxTime": "2026-08-27T08:00:44-04:00",
