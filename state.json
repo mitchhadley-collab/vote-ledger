@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T21:30:38-04:00",
+  "lastChecked": "2026-08-26T21:36:53-04:00",
   "freeVotes": [
+    {
+      "name": "Daniel Finger",
+      "approxTime": "2026-08-26T21:36:49-04:00",
+      "relativeAtCapture": "4 seconds ago",
+      "firstLogged": "2026-08-26T21:36:53-04:00"
+    },
     {
       "name": "Nadia Despain",
       "approxTime": "2026-08-26T21:30:05-04:00",
