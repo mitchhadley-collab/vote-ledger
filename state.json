@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-27T10:45:21-04:00",
+  "lastChecked": "2026-08-27T10:47:27-04:00",
   "freeVotes": [
+    {
+      "name": "Nicholas Amato",
+      "approxTime": "2026-08-27T10:47:14-04:00",
+      "relativeAtCapture": "13 seconds ago",
+      "firstLogged": "2026-08-27T10:47:27-04:00"
+    },
     {
       "name": "Arghya Sinha Roy",
       "approxTime": "2026-08-27T10:45:12-04:00",
