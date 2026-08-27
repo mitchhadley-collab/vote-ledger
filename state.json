@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-27T17:08:18-04:00",
+  "lastChecked": "2026-08-27T17:35:15-04:00",
   "freeVotes": [
+    {
+      "name": "Michelle Sathish",
+      "approxTime": "2026-08-27T17:34:53-04:00",
+      "relativeAtCapture": "22 seconds ago",
+      "firstLogged": "2026-08-27T17:35:15-04:00"
+    },
     {
       "name": "Michael Joseph Whitelaw",
       "approxTime": "2026-08-27T17:08:02-04:00",
