@@ -1,8 +1,20 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-27T19:25:20-04:00",
+  "lastChecked": "2026-08-27T19:35:45-04:00",
   "freeVotes": [
+    {
+      "name": "Elle Joy",
+      "approxTime": "2026-08-27T19:35:35-04:00",
+      "relativeAtCapture": "10 seconds ago",
+      "firstLogged": "2026-08-27T19:35:45-04:00"
+    },
+    {
+      "name": "Phyllis DiStefano",
+      "approxTime": "2026-08-27T19:35:20-04:00",
+      "relativeAtCapture": "25 seconds ago",
+      "firstLogged": "2026-08-27T19:35:45-04:00"
+    },
     {
       "name": "Felix Lempert",
       "approxTime": "2026-08-27T19:24:20-04:00",
