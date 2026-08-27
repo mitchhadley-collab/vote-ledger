@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T23:55:59-04:00",
+  "lastChecked": "2026-08-27T00:01:13-04:00",
   "freeVotes": [
+    {
+      "name": "Sujith Chowdary",
+      "approxTime": "2026-08-27T00:00:20-04:00",
+      "relativeAtCapture": "53 seconds ago",
+      "firstLogged": "2026-08-27T00:01:13-04:00"
+    },
     {
       "name": "Sai Pranay",
       "approxTime": "2026-08-26T23:55:30-04:00",
