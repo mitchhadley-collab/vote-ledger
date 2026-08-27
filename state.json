@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T20:25:05-04:00",
+  "lastChecked": "2026-08-26T20:29:16-04:00",
   "freeVotes": [
+    {
+      "name": "Jeffery Liuzzi",
+      "approxTime": "2026-08-26T20:29:09-04:00",
+      "relativeAtCapture": "7 seconds ago",
+      "firstLogged": "2026-08-26T20:29:16-04:00"
+    },
     {
       "name": "Binni Liu",
       "approxTime": "2026-08-26T20:24:52-04:00",
