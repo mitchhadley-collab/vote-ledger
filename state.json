@@ -1,7 +1,7 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-26T20:06:21-04:00",
+  "lastChecked": "2026-08-26T20:07:25-04:00",
   "freeVotes": [
     {
       "name": "alison kranz",
@@ -1775,6 +1775,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "Jacqueline Horton",
+      "votes": 50,
+      "approxTime": "2026-08-26T20:07:10-04:00",
+      "relativeAtCapture": "15 seconds ago",
+      "comment": null
+    },
     {
       "name": "Roseann Napolitano",
       "votes": 20,
