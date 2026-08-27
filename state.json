@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-27T08:47:09-04:00",
+  "lastChecked": "2026-08-27T09:02:42-04:00",
   "freeVotes": [
+    {
+      "name": "Patrick Motta",
+      "approxTime": "2026-08-27T09:01:42-04:00",
+      "relativeAtCapture": "1 minute ago",
+      "firstLogged": "2026-08-27T09:02:42-04:00"
+    },
     {
       "name": "Jennifer Di Stefano",
       "approxTime": "2026-08-27T08:46:27-04:00",
