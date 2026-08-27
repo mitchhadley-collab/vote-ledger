@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-27T02:21:20-04:00",
+  "lastChecked": "2026-08-27T05:52:57-04:00",
   "freeVotes": [
+    {
+      "name": "Raj Narahonam",
+      "approxTime": "2026-08-27T05:52:27-04:00",
+      "relativeAtCapture": "30 seconds ago",
+      "firstLogged": "2026-08-27T05:52:57-04:00"
+    },
     {
       "name": "Jordan Hadley",
       "approxTime": "2026-08-27T02:20:56-04:00",
