@@ -1,8 +1,20 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-28T13:27:35-04:00",
+  "lastChecked": "2026-08-28T13:28:40-04:00",
   "freeVotes": [
+    {
+      "name": "Meredith Hoynacki",
+      "approxTime": "2026-08-28T13:28:37-04:00",
+      "relativeAtCapture": "3 seconds ago",
+      "firstLogged": "2026-08-28T13:28:40-04:00"
+    },
+    {
+      "name": "Chris McGovern",
+      "approxTime": "2026-08-28T13:27:41-04:00",
+      "relativeAtCapture": "59 seconds ago",
+      "firstLogged": "2026-08-28T13:28:40-04:00"
+    },
     {
       "name": "Sharon Hadley",
       "approxTime": "2026-08-28T13:27:17-04:00",
