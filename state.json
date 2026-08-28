@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-27T21:43:24-04:00",
+  "lastChecked": "2026-08-27T21:44:28-04:00",
   "freeVotes": [
+    {
+      "name": "Sharon Hadley",
+      "approxTime": "2026-08-27T21:43:58-04:00",
+      "relativeAtCapture": "30 seconds ago",
+      "firstLogged": "2026-08-27T21:44:28-04:00"
+    },
     {
       "name": "Kristy Grimm",
       "approxTime": "2026-08-27T21:43:18-04:00",
