@@ -1,8 +1,20 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-28T13:20:17-04:00",
+  "lastChecked": "2026-08-28T13:22:23-04:00",
   "freeVotes": [
+    {
+      "name": "Jeffery Liuzzi",
+      "approxTime": "2026-08-28T13:21:39-04:00",
+      "relativeAtCapture": "44 seconds ago",
+      "firstLogged": "2026-08-28T13:22:23-04:00"
+    },
+    {
+      "name": "Marissa Adams",
+      "approxTime": "2026-08-28T13:21:24-04:00",
+      "relativeAtCapture": "59 seconds ago",
+      "firstLogged": "2026-08-28T13:22:23-04:00"
+    },
     {
       "name": "Ethan Kluesner",
       "approxTime": "2026-08-28T13:20:16-04:00",
