@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-27T21:39:15-04:00",
+  "lastChecked": "2026-08-27T21:43:24-04:00",
   "freeVotes": [
+    {
+      "name": "Kristy Grimm",
+      "approxTime": "2026-08-27T21:43:18-04:00",
+      "relativeAtCapture": "6 seconds ago",
+      "firstLogged": "2026-08-27T21:43:24-04:00"
+    },
     {
       "name": "Syed Asrar Ul Hassan",
       "approxTime": "2026-08-27T21:38:52-04:00",
