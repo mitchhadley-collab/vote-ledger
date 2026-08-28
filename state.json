@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-28T15:54:39-04:00",
+  "lastChecked": "2026-08-28T15:59:51-04:00",
   "freeVotes": [
+    {
+      "name": "Serina Anderson",
+      "approxTime": "2026-08-28T15:58:51-04:00",
+      "relativeAtCapture": "1 minute ago",
+      "firstLogged": "2026-08-28T15:59:51-04:00"
+    },
     {
       "name": "Jed Goodell",
       "approxTime": "2026-08-28T15:54:17-04:00",
