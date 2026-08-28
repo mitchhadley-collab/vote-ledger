@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-28T17:35:31-04:00",
+  "lastChecked": "2026-08-28T17:37:39-04:00",
   "freeVotes": [
+    {
+      "name": "Kristy Grimm",
+      "approxTime": "2026-08-28T17:37:20-04:00",
+      "relativeAtCapture": "19 seconds ago",
+      "firstLogged": "2026-08-28T17:37:39-04:00"
+    },
     {
       "name": "Camille Larsen Hadley",
       "approxTime": "2026-08-28T17:35:14-04:00",
