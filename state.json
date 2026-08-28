@@ -1,8 +1,20 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-28T14:19:55-04:00",
+  "lastChecked": "2026-08-28T14:23:02-04:00",
   "freeVotes": [
+    {
+      "name": "Jorge Fernandez",
+      "approxTime": "2026-08-28T14:22:52-04:00",
+      "relativeAtCapture": "10 seconds ago",
+      "firstLogged": "2026-08-28T14:23:02-04:00"
+    },
+    {
+      "name": "Janet Gunnell",
+      "approxTime": "2026-08-28T14:22:51-04:00",
+      "relativeAtCapture": "11 seconds ago",
+      "firstLogged": "2026-08-28T14:23:02-04:00"
+    },
     {
       "name": "Ernesto Arbanil",
       "approxTime": "2026-08-28T14:19:06-04:00",
