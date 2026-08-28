@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-28T14:46:59-04:00",
+  "lastChecked": "2026-08-28T14:48:03-04:00",
   "freeVotes": [
+    {
+      "name": "Julianna Russo",
+      "approxTime": "2026-08-28T14:47:35-04:00",
+      "relativeAtCapture": "28 seconds ago",
+      "firstLogged": "2026-08-28T14:48:03-04:00"
+    },
     {
       "name": "Kirby Quada",
       "approxTime": "2026-08-28T14:46:51-04:00",
@@ -2765,6 +2771,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "Kirby Quada",
+      "votes": 25,
+      "approxTime": "2026-08-28T14:47:23-04:00",
+      "relativeAtCapture": "40 seconds ago",
+      "comment": null
+    },
     {
       "name": "Sydney Ferleger",
       "votes": 10,
