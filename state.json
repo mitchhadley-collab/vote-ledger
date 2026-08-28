@@ -1,8 +1,20 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-28T13:28:40-04:00",
+  "lastChecked": "2026-08-28T13:33:53-04:00",
   "freeVotes": [
+    {
+      "name": "Susan Li",
+      "approxTime": "2026-08-28T13:33:39-04:00",
+      "relativeAtCapture": "14 seconds ago",
+      "firstLogged": "2026-08-28T13:33:53-04:00"
+    },
+    {
+      "name": "Ryan Newell",
+      "approxTime": "2026-08-28T13:33:08-04:00",
+      "relativeAtCapture": "45 seconds ago",
+      "firstLogged": "2026-08-28T13:33:53-04:00"
+    },
     {
       "name": "Meredith Hoynacki",
       "approxTime": "2026-08-28T13:28:37-04:00",
