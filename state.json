@@ -1,7 +1,7 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-28T14:04:17-04:00",
+  "lastChecked": "2026-08-28T14:09:29-04:00",
   "freeVotes": [
     {
       "name": "Joey Gerber",
@@ -2699,6 +2699,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "Sydney Ferleger",
+      "votes": 10,
+      "approxTime": "2026-08-28T14:09:01-04:00",
+      "relativeAtCapture": "28 seconds ago",
+      "comment": null
+    },
     {
       "name": "Ara Markarian",
       "votes": 20,
