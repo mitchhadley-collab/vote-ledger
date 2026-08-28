@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-28T18:00:36-04:00",
+  "lastChecked": "2026-08-28T18:04:47-04:00",
   "freeVotes": [
+    {
+      "name": "Maegan Assaf",
+      "approxTime": "2026-08-28T18:03:47-04:00",
+      "relativeAtCapture": "1 minute ago",
+      "firstLogged": "2026-08-28T18:04:47-04:00"
+    },
     {
       "name": "Jordan Gottdank",
       "approxTime": "2026-08-28T18:00:35-04:00",
