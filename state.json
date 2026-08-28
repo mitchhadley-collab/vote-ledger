@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-28T16:26:55-04:00",
+  "lastChecked": "2026-08-28T16:36:17-04:00",
   "freeVotes": [
+    {
+      "name": "Xiaoou Jin",
+      "approxTime": "2026-08-28T16:36:14-04:00",
+      "relativeAtCapture": "3 seconds ago",
+      "firstLogged": "2026-08-28T16:36:17-04:00"
+    },
     {
       "name": "Brendan Bakst",
       "approxTime": "2026-08-28T16:26:10-04:00",
