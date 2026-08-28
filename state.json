@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-28T16:21:41-04:00",
+  "lastChecked": "2026-08-28T16:24:49-04:00",
   "freeVotes": [
+    {
+      "name": "Jamie Barber",
+      "approxTime": "2026-08-28T16:24:40-04:00",
+      "relativeAtCapture": "9 seconds ago",
+      "firstLogged": "2026-08-28T16:24:49-04:00"
+    },
     {
       "name": "Israel Bien",
       "approxTime": "2026-08-28T16:21:12-04:00",
