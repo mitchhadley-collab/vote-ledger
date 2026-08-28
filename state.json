@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-28T13:40:11-04:00",
+  "lastChecked": "2026-08-28T13:43:20-04:00",
   "freeVotes": [
+    {
+      "name": "Nicole Daniels",
+      "approxTime": "2026-08-28T13:43:13-04:00",
+      "relativeAtCapture": "7 seconds ago",
+      "firstLogged": "2026-08-28T13:43:20-04:00"
+    },
     {
       "name": "Kelley Kay",
       "approxTime": "2026-08-28T13:39:12-04:00",
