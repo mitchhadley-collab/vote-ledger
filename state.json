@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-27T20:03:48-04:00",
+  "lastChecked": "2026-08-27T20:21:26-04:00",
   "freeVotes": [
+    {
+      "name": "Rosalee Jefferson",
+      "approxTime": "2026-08-27T20:20:38-04:00",
+      "relativeAtCapture": "48 seconds ago",
+      "firstLogged": "2026-08-27T20:21:26-04:00"
+    },
     {
       "name": "Lorin Ann",
       "approxTime": "2026-08-27T20:02:58-04:00",
