@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-28T14:53:16-04:00",
+  "lastChecked": "2026-08-28T14:58:28-04:00",
   "freeVotes": [
+    {
+      "name": "Talia Ortega",
+      "approxTime": "2026-08-28T14:58:00-04:00",
+      "relativeAtCapture": "28 seconds ago",
+      "firstLogged": "2026-08-28T14:58:28-04:00"
+    },
     {
       "name": "Julianna Russo",
       "approxTime": "2026-08-28T14:47:35-04:00",
@@ -2771,6 +2777,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "Caitlin Curtis",
+      "votes": 50,
+      "approxTime": "2026-08-28T14:58:06-04:00",
+      "relativeAtCapture": "22 seconds ago",
+      "comment": null
+    },
     {
       "name": "Chelsie Larsen",
       "votes": 25,
