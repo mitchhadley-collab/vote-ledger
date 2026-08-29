@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T13:12:19-04:00",
+  "lastChecked": "2026-08-29T13:16:29-04:00",
   "freeVotes": [
+    {
+      "name": "David Grimm",
+      "approxTime": "2026-08-29T13:15:35-04:00",
+      "relativeAtCapture": "54 seconds ago",
+      "firstLogged": "2026-08-29T13:16:29-04:00"
+    },
     {
       "name": "Phyllis DiStefano",
       "approxTime": "2026-08-29T13:11:54-04:00",
