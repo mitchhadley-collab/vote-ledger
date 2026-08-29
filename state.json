@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T01:48:27-04:00",
+  "lastChecked": "2026-08-29T02:08:09-04:00",
   "freeVotes": [
+    {
+      "name": "Nidhi Masrani",
+      "approxTime": "2026-08-29T02:07:31-04:00",
+      "relativeAtCapture": "38 seconds ago",
+      "firstLogged": "2026-08-29T02:08:09-04:00"
+    },
     {
       "name": "Sujith Chowdary",
       "approxTime": "2026-08-29T01:48:01-04:00",
