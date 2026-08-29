@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T16:23:48-04:00",
+  "lastChecked": "2026-08-29T16:30:02-04:00",
   "freeVotes": [
+    {
+      "name": "Chase Moos",
+      "approxTime": "2026-08-29T16:29:51-04:00",
+      "relativeAtCapture": "11 seconds ago",
+      "firstLogged": "2026-08-29T16:30:02-04:00"
+    },
     {
       "name": "Joseph Lopez",
       "approxTime": "2026-08-29T16:23:42-04:00",
