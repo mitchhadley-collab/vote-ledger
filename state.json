@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-28T22:09:26-04:00",
+  "lastChecked": "2026-08-28T22:18:46-04:00",
   "freeVotes": [
+    {
+      "name": "Phani Suhas",
+      "approxTime": "2026-08-28T22:18:18-04:00",
+      "relativeAtCapture": "28 seconds ago",
+      "firstLogged": "2026-08-28T22:18:46-04:00"
+    },
     {
       "name": "Helen Yee",
       "approxTime": "2026-08-28T22:08:53-04:00",
