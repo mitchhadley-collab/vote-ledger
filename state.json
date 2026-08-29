@@ -1,7 +1,7 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T18:50:12-04:00",
+  "lastChecked": "2026-08-29T18:53:19-04:00",
   "freeVotes": [
     {
       "name": "Eric Grimm",
@@ -3611,6 +3611,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "Jamie Willis",
+      "votes": 10,
+      "approxTime": "2026-08-29T18:52:19-04:00",
+      "relativeAtCapture": "1 minute ago",
+      "comment": null
+    },
     {
       "name": "Caitlin Curtis",
       "votes": 25,
