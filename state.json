@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T17:07:29-04:00",
+  "lastChecked": "2026-08-29T17:08:33-04:00",
   "freeVotes": [
+    {
+      "name": "Maegan Assaf",
+      "approxTime": "2026-08-29T17:07:38-04:00",
+      "relativeAtCapture": "55 seconds ago",
+      "firstLogged": "2026-08-29T17:08:33-04:00"
+    },
     {
       "name": "Roseann Napolitano",
       "approxTime": "2026-08-29T17:06:34-04:00",
