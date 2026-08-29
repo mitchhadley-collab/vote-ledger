@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T12:30:49-04:00",
+  "lastChecked": "2026-08-29T12:53:37-04:00",
   "freeVotes": [
+    {
+      "name": "Kristen Di Stefano",
+      "approxTime": "2026-08-29T12:53:31-04:00",
+      "relativeAtCapture": "6 seconds ago",
+      "firstLogged": "2026-08-29T12:53:37-04:00"
+    },
     {
       "name": "Nadia Despain",
       "approxTime": "2026-08-29T12:30:31-04:00",
