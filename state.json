@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T14:54:11-04:00",
+  "lastChecked": "2026-08-29T15:05:36-04:00",
   "freeVotes": [
+    {
+      "name": "Janet Gunnell",
+      "approxTime": "2026-08-29T15:05:04-04:00",
+      "relativeAtCapture": "32 seconds ago",
+      "firstLogged": "2026-08-29T15:05:36-04:00"
+    },
     {
       "name": "Ofknee Sha",
       "approxTime": "2026-08-29T14:53:28-04:00",
