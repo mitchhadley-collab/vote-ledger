@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T15:05:36-04:00",
+  "lastChecked": "2026-08-29T15:10:48-04:00",
   "freeVotes": [
+    {
+      "name": "Ara Markarian",
+      "approxTime": "2026-08-29T15:10:34-04:00",
+      "relativeAtCapture": "14 seconds ago",
+      "firstLogged": "2026-08-29T15:10:48-04:00"
+    },
     {
       "name": "Janet Gunnell",
       "approxTime": "2026-08-29T15:05:04-04:00",
