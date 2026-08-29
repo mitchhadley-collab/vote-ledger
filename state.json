@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T06:05:35-04:00",
+  "lastChecked": "2026-08-29T07:28:27-04:00",
   "freeVotes": [
+    {
+      "name": "Sammy Mba",
+      "approxTime": "2026-08-29T07:28:13-04:00",
+      "relativeAtCapture": "14 seconds ago",
+      "firstLogged": "2026-08-29T07:28:27-04:00"
+    },
     {
       "name": "Srinu Vas",
       "approxTime": "2026-08-29T06:04:40-04:00",
