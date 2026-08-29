@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T03:13:31-04:00",
+  "lastChecked": "2026-08-29T03:29:05-04:00",
   "freeVotes": [
+    {
+      "name": "Sai Pranay",
+      "approxTime": "2026-08-29T03:28:31-04:00",
+      "relativeAtCapture": "34 seconds ago",
+      "firstLogged": "2026-08-29T03:29:05-04:00"
+    },
     {
       "name": "Phani Sucheta",
       "approxTime": "2026-08-29T03:13:17-04:00",
