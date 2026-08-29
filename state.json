@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T16:35:14-04:00",
+  "lastChecked": "2026-08-29T16:37:19-04:00",
   "freeVotes": [
+    {
+      "name": "Elle Joy",
+      "approxTime": "2026-08-29T16:36:48-04:00",
+      "relativeAtCapture": "31 seconds ago",
+      "firstLogged": "2026-08-29T16:37:19-04:00"
+    },
     {
       "name": "Dean Diongson",
       "approxTime": "2026-08-29T16:35:01-04:00",
