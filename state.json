@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T04:04:19-04:00",
+  "lastChecked": "2026-08-29T04:32:18-04:00",
   "freeVotes": [
+    {
+      "name": "Unmesha Duarah",
+      "approxTime": "2026-08-29T04:32:10-04:00",
+      "relativeAtCapture": "8 seconds ago",
+      "firstLogged": "2026-08-29T04:32:18-04:00"
+    },
     {
       "name": "Rahul Reddy",
       "approxTime": "2026-08-29T04:03:24-04:00",
