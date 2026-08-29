@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T17:52:08-04:00",
+  "lastChecked": "2026-08-29T18:05:37-04:00",
   "freeVotes": [
+    {
+      "name": "Serina Anderson",
+      "approxTime": "2026-08-29T18:05:15-04:00",
+      "relativeAtCapture": "22 seconds ago",
+      "firstLogged": "2026-08-29T18:05:37-04:00"
+    },
     {
       "name": "April Hadley",
       "approxTime": "2026-08-29T17:51:28-04:00",
