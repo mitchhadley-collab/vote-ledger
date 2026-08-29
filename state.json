@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T15:53:32-04:00",
+  "lastChecked": "2026-08-29T15:54:36-04:00",
   "freeVotes": [
+    {
+      "name": "Craig Tebbs",
+      "approxTime": "2026-08-29T15:54:18-04:00",
+      "relativeAtCapture": "18 seconds ago",
+      "firstLogged": "2026-08-29T15:54:36-04:00"
+    },
     {
       "name": "Joey Gerber",
       "approxTime": "2026-08-29T15:53:03-04:00",
