@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T16:48:46-04:00",
+  "lastChecked": "2026-08-29T17:00:11-04:00",
   "freeVotes": [
+    {
+      "name": "Nicole Daniels",
+      "approxTime": "2026-08-29T16:59:53-04:00",
+      "relativeAtCapture": "18 seconds ago",
+      "firstLogged": "2026-08-29T17:00:11-04:00"
+    },
     {
       "name": "Tarik Rouwassi",
       "approxTime": "2026-08-29T16:48:37-04:00",
