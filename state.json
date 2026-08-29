@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T13:55:04-04:00",
+  "lastChecked": "2026-08-29T13:56:08-04:00",
   "freeVotes": [
+    {
+      "name": "Joseph DiStefano",
+      "approxTime": "2026-08-29T13:55:44-04:00",
+      "relativeAtCapture": "24 seconds ago",
+      "firstLogged": "2026-08-29T13:56:08-04:00"
+    },
     {
       "name": "Jenna Whitney",
       "approxTime": "2026-08-29T13:54:27-04:00",
