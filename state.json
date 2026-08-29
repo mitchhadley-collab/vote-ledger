@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-28T20:46:43-04:00",
+  "lastChecked": "2026-08-28T21:13:28-04:00",
   "freeVotes": [
+    {
+      "name": "Ana Bel",
+      "approxTime": "2026-08-28T21:12:41-04:00",
+      "relativeAtCapture": "47 seconds ago",
+      "firstLogged": "2026-08-28T21:13:28-04:00"
+    },
     {
       "name": "Chris HD",
       "approxTime": "2026-08-28T20:46:25-04:00",
