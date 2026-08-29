@@ -1,7 +1,7 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T16:10:15-04:00",
+  "lastChecked": "2026-08-29T16:12:21-04:00",
   "freeVotes": [
     {
       "name": "Marissa Adams",
@@ -3473,6 +3473,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "Kathleen Mecham",
+      "votes": 10,
+      "approxTime": "2026-08-29T16:11:52-04:00",
+      "relativeAtCapture": "29 seconds ago",
+      "comment": null
+    },
     {
       "name": "april hadley",
       "votes": 50,
