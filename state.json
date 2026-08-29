@@ -1,8 +1,20 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T06:04:31-04:00",
+  "lastChecked": "2026-08-29T06:05:35-04:00",
   "freeVotes": [
+    {
+      "name": "Srinu Vas",
+      "approxTime": "2026-08-29T06:04:40-04:00",
+      "relativeAtCapture": "55 seconds ago",
+      "firstLogged": "2026-08-29T06:05:35-04:00"
+    },
+    {
+      "name": "Ponugupati Vedadri",
+      "approxTime": "2026-08-29T06:04:35-04:00",
+      "relativeAtCapture": "1 minute ago",
+      "firstLogged": "2026-08-29T06:05:35-04:00"
+    },
     {
       "name": "Aditya Raj",
       "approxTime": "2026-08-29T06:03:38-04:00",
