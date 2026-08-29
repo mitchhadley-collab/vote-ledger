@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T19:53:31-04:00",
+  "lastChecked": "2026-08-29T19:54:35-04:00",
   "freeVotes": [
+    {
+      "name": "Jaclyn Marzigliano McGovern",
+      "approxTime": "2026-08-29T19:53:57-04:00",
+      "relativeAtCapture": "38 seconds ago",
+      "firstLogged": "2026-08-29T19:54:35-04:00"
+    },
     {
       "name": "Kristin Johnson Curtis",
       "approxTime": "2026-08-29T19:39:31-04:00",
