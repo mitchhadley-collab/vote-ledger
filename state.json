@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T12:53:37-04:00",
+  "lastChecked": "2026-08-29T13:01:56-04:00",
   "freeVotes": [
+    {
+      "name": "Jacqueline Horton",
+      "approxTime": "2026-08-29T13:01:32-04:00",
+      "relativeAtCapture": "24 seconds ago",
+      "firstLogged": "2026-08-29T13:01:56-04:00"
+    },
     {
       "name": "Kristen Di Stefano",
       "approxTime": "2026-08-29T12:53:31-04:00",
