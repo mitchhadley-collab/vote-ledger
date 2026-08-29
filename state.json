@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T15:50:23-04:00",
+  "lastChecked": "2026-08-29T15:51:27-04:00",
   "freeVotes": [
+    {
+      "name": "Zach Jun Hyuk Hong",
+      "approxTime": "2026-08-29T15:50:31-04:00",
+      "relativeAtCapture": "56 seconds ago",
+      "firstLogged": "2026-08-29T15:51:27-04:00"
+    },
     {
       "name": "Ben Woodrow",
       "approxTime": "2026-08-29T15:49:44-04:00",
