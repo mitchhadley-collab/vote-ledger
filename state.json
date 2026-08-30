@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T21:19:44-04:00",
+  "lastChecked": "2026-08-29T21:34:15-04:00",
   "freeVotes": [
+    {
+      "name": "Umme Qulsum",
+      "approxTime": "2026-08-29T21:34:07-04:00",
+      "relativeAtCapture": "8 seconds ago",
+      "firstLogged": "2026-08-29T21:34:15-04:00"
+    },
     {
       "name": "Raina Patel",
       "approxTime": "2026-08-29T21:19:39-04:00",
