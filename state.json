@@ -1,7 +1,7 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T19:14:39-04:00",
+  "lastChecked": "2026-08-30T19:26:03-04:00",
   "freeVotes": [
     {
       "name": "Kristen Di Stefano",
@@ -4265,6 +4265,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "Gage Zobell",
+      "votes": 200,
+      "approxTime": "2026-08-30T19:25:17-04:00",
+      "relativeAtCapture": "46 seconds ago",
+      "comment": null
+    },
     {
       "name": "Rohit handa",
       "votes": 50,
