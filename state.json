@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T22:23:01-04:00",
+  "lastChecked": "2026-08-29T22:33:24-04:00",
   "freeVotes": [
+    {
+      "name": "Amanda Hodson",
+      "approxTime": "2026-08-29T22:32:59-04:00",
+      "relativeAtCapture": "25 seconds ago",
+      "firstLogged": "2026-08-29T22:33:24-04:00"
+    },
     {
       "name": "Jordan Hadley",
       "approxTime": "2026-08-29T22:22:12-04:00",
