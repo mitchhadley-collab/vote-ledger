@@ -1,7 +1,7 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T17:54:47-04:00",
+  "lastChecked": "2026-08-30T17:59:59-04:00",
   "freeVotes": [
     {
       "name": "Richard Midnite Volpicella",
@@ -4229,6 +4229,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "Rohit handa",
+      "votes": 50,
+      "approxTime": "2026-08-30T17:59:49-04:00",
+      "relativeAtCapture": "10 seconds ago",
+      "comment": null
+    },
     {
       "name": "Caitlin Curtis",
       "votes": 50,
