@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T05:25:43-04:00",
+  "lastChecked": "2026-08-30T05:32:59-04:00",
   "freeVotes": [
+    {
+      "name": "Imthiyaz Muhd",
+      "approxTime": "2026-08-30T05:32:06-04:00",
+      "relativeAtCapture": "53 seconds ago",
+      "firstLogged": "2026-08-30T05:32:59-04:00"
+    },
     {
       "name": "Sai Pranay",
       "approxTime": "2026-08-30T05:25:35-04:00",
