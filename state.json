@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T15:09:32-04:00",
+  "lastChecked": "2026-08-30T15:16:48-04:00",
   "freeVotes": [
+    {
+      "name": "Melis Tirhi",
+      "approxTime": "2026-08-30T15:15:56-04:00",
+      "relativeAtCapture": "52 seconds ago",
+      "firstLogged": "2026-08-30T15:16:48-04:00"
+    },
     {
       "name": "R.K. Handa",
       "approxTime": "2026-08-30T15:09:03-04:00",
