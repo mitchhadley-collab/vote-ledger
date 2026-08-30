@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T18:15:33-04:00",
+  "lastChecked": "2026-08-30T18:49:43-04:00",
   "freeVotes": [
+    {
+      "name": "Serina Anderson",
+      "approxTime": "2026-08-30T18:49:10-04:00",
+      "relativeAtCapture": "33 seconds ago",
+      "firstLogged": "2026-08-30T18:49:43-04:00"
+    },
     {
       "name": "Madhumita Chatterjee",
       "approxTime": "2026-08-30T18:15:31-04:00",
