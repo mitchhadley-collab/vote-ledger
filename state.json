@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T17:50:35-04:00",
+  "lastChecked": "2026-08-30T17:52:41-04:00",
   "freeVotes": [
+    {
+      "name": "Rebecca Lynn Sills",
+      "approxTime": "2026-08-30T17:52:30-04:00",
+      "relativeAtCapture": "11 seconds ago",
+      "firstLogged": "2026-08-30T17:52:41-04:00"
+    },
     {
       "name": "Monish Menon",
       "approxTime": "2026-08-30T17:23:02-04:00",
