@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T18:51:48-04:00",
+  "lastChecked": "2026-08-30T19:02:11-04:00",
   "freeVotes": [
+    {
+      "name": "Steve Blakeslee",
+      "approxTime": "2026-08-30T19:01:17-04:00",
+      "relativeAtCapture": "54 seconds ago",
+      "firstLogged": "2026-08-30T19:02:11-04:00"
+    },
     {
       "name": "Raj Narahonam",
       "approxTime": "2026-08-30T18:51:37-04:00",
