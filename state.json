@@ -1,7 +1,7 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T11:30:32-04:00",
+  "lastChecked": "2026-08-30T11:34:42-04:00",
   "freeVotes": [
     {
       "name": "Xiaoou Jin",
@@ -3899,6 +3899,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "David Hoynacki",
+      "votes": 50,
+      "approxTime": "2026-08-30T11:34:13-04:00",
+      "relativeAtCapture": "29 seconds ago",
+      "comment": null
+    },
     {
       "name": "David Hoynacki",
       "votes": 500,
