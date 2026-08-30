@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T19:30:14-04:00",
+  "lastChecked": "2026-08-30T19:34:24-04:00",
   "freeVotes": [
+    {
+      "name": "Jaclyn Marzigliano McGovern",
+      "approxTime": "2026-08-30T19:34:17-04:00",
+      "relativeAtCapture": "7 seconds ago",
+      "firstLogged": "2026-08-30T19:34:24-04:00"
+    },
     {
       "name": "Max Toby",
       "approxTime": "2026-08-30T19:30:04-04:00",
