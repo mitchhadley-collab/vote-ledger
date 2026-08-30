@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T06:19:39-04:00",
+  "lastChecked": "2026-08-30T07:31:08-04:00",
   "freeVotes": [
+    {
+      "name": "Bryan Weinstein",
+      "approxTime": "2026-08-30T07:30:50-04:00",
+      "relativeAtCapture": "18 seconds ago",
+      "firstLogged": "2026-08-30T07:31:08-04:00"
+    },
     {
       "name": "Matt Munyan",
       "approxTime": "2026-08-30T06:18:42-04:00",
