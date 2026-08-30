@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T12:16:10-04:00",
+  "lastChecked": "2026-08-30T12:21:22-04:00",
   "freeVotes": [
+    {
+      "name": "Helen Yee",
+      "approxTime": "2026-08-30T12:20:32-04:00",
+      "relativeAtCapture": "50 seconds ago",
+      "firstLogged": "2026-08-30T12:21:22-04:00"
+    },
     {
       "name": "George Victoria Chidinma",
       "approxTime": "2026-08-30T12:15:49-04:00",
