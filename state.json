@@ -1,7 +1,7 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T11:11:54-04:00",
+  "lastChecked": "2026-08-30T11:30:32-04:00",
   "freeVotes": [
     {
       "name": "Xiaoou Jin",
@@ -3899,6 +3899,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "David Hoynacki",
+      "votes": 500,
+      "approxTime": "2026-08-30T11:30:31-04:00",
+      "relativeAtCapture": "1 second ago",
+      "comment": null
+    },
     {
       "name": "Jacqueline Horton",
       "votes": 50,
