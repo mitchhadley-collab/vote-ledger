@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T15:23:04-04:00",
+  "lastChecked": "2026-08-30T15:25:09-04:00",
   "freeVotes": [
+    {
+      "name": "Brian Hadley",
+      "approxTime": "2026-08-30T15:24:09-04:00",
+      "relativeAtCapture": "1 minute ago",
+      "firstLogged": "2026-08-30T15:25:09-04:00"
+    },
     {
       "name": "Jacqueline Horton",
       "approxTime": "2026-08-30T15:22:37-04:00",
