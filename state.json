@@ -1,7 +1,7 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T08:04:17-04:00",
+  "lastChecked": "2026-08-30T08:21:54-04:00",
   "freeVotes": [
     {
       "name": "Camille Larsen Hadley",
@@ -3869,6 +3869,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "Rohit handa",
+      "votes": 50,
+      "approxTime": "2026-08-30T08:21:34-04:00",
+      "relativeAtCapture": "20 seconds ago",
+      "comment": null
+    },
     {
       "name": "Raj patel",
       "votes": 250,
