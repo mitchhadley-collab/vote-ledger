@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T16:53:29-04:00",
+  "lastChecked": "2026-08-30T16:54:32-04:00",
   "freeVotes": [
+    {
+      "name": "Bill McLinden",
+      "approxTime": "2026-08-30T16:54:20-04:00",
+      "relativeAtCapture": "12 seconds ago",
+      "firstLogged": "2026-08-30T16:54:32-04:00"
+    },
     {
       "name": "April Hadley",
       "approxTime": "2026-08-30T16:53:08-04:00",
