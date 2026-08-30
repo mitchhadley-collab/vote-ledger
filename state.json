@@ -1,8 +1,20 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T16:49:19-04:00",
+  "lastChecked": "2026-08-30T16:53:29-04:00",
   "freeVotes": [
+    {
+      "name": "April Hadley",
+      "approxTime": "2026-08-30T16:53:08-04:00",
+      "relativeAtCapture": "21 seconds ago",
+      "firstLogged": "2026-08-30T16:53:29-04:00"
+    },
+    {
+      "name": "Binni Liu",
+      "approxTime": "2026-08-30T16:52:36-04:00",
+      "relativeAtCapture": "53 seconds ago",
+      "firstLogged": "2026-08-30T16:53:29-04:00"
+    },
     {
       "name": "Kirby Quada",
       "approxTime": "2026-08-30T16:48:20-04:00",
