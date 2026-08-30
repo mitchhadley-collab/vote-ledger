@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T19:54:35-04:00",
+  "lastChecked": "2026-08-29T20:00:50-04:00",
   "freeVotes": [
+    {
+      "name": "Sha King",
+      "approxTime": "2026-08-29T20:00:31-04:00",
+      "relativeAtCapture": "19 seconds ago",
+      "firstLogged": "2026-08-29T20:00:50-04:00"
+    },
     {
       "name": "Jaclyn Marzigliano McGovern",
       "approxTime": "2026-08-29T19:53:57-04:00",
