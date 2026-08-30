@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T20:07:08-04:00",
+  "lastChecked": "2026-08-29T20:12:19-04:00",
   "freeVotes": [
+    {
+      "name": "Meredith Hoynacki",
+      "approxTime": "2026-08-29T20:12:12-04:00",
+      "relativeAtCapture": "7 seconds ago",
+      "firstLogged": "2026-08-29T20:12:19-04:00"
+    },
     {
       "name": "Nicholas Amato",
       "approxTime": "2026-08-29T20:07:07-04:00",
