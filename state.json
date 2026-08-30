@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T16:48:15-04:00",
+  "lastChecked": "2026-08-30T16:49:19-04:00",
   "freeVotes": [
+    {
+      "name": "Kirby Quada",
+      "approxTime": "2026-08-30T16:48:20-04:00",
+      "relativeAtCapture": "59 seconds ago",
+      "firstLogged": "2026-08-30T16:49:19-04:00"
+    },
     {
       "name": "Marissa Adams",
       "approxTime": "2026-08-30T16:47:51-04:00",
@@ -4169,6 +4175,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "Kirby Quada",
+      "votes": 50,
+      "approxTime": "2026-08-30T16:49:12-04:00",
+      "relativeAtCapture": "7 seconds ago",
+      "comment": null
+    },
     {
       "name": "Sarah Stiles",
       "votes": 50,
