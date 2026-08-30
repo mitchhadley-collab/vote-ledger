@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T00:58:22-04:00",
+  "lastChecked": "2026-08-30T04:14:10-04:00",
   "freeVotes": [
+    {
+      "name": "Mario DiLeonardo",
+      "approxTime": "2026-08-30T04:13:23-04:00",
+      "relativeAtCapture": "47 seconds ago",
+      "firstLogged": "2026-08-30T04:14:10-04:00"
+    },
     {
       "name": "Lila Urda",
       "approxTime": "2026-08-30T00:57:37-04:00",
