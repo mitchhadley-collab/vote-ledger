@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-29T23:29:22-04:00",
+  "lastChecked": "2026-08-30T00:09:44-04:00",
   "freeVotes": [
+    {
+      "name": "Sara Witty",
+      "approxTime": "2026-08-30T00:09:25-04:00",
+      "relativeAtCapture": "19 seconds ago",
+      "firstLogged": "2026-08-30T00:09:44-04:00"
+    },
     {
       "name": "Syed Asrar Ul Hassan",
       "approxTime": "2026-08-29T23:29:18-04:00",
