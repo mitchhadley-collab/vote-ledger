@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T19:26:03-04:00",
+  "lastChecked": "2026-08-30T19:29:11-04:00",
   "freeVotes": [
+    {
+      "name": "Sal Ventura",
+      "approxTime": "2026-08-30T19:28:51-04:00",
+      "relativeAtCapture": "20 seconds ago",
+      "firstLogged": "2026-08-30T19:29:11-04:00"
+    },
     {
       "name": "Kristen Di Stefano",
       "approxTime": "2026-08-30T19:14:22-04:00",
