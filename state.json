@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T09:20:36-04:00",
+  "lastChecked": "2026-08-31T09:26:50-04:00",
   "freeVotes": [
+    {
+      "name": "Umme Qulsum",
+      "approxTime": "2026-08-31T09:26:22-04:00",
+      "relativeAtCapture": "28 seconds ago",
+      "firstLogged": "2026-08-31T09:26:50-04:00"
+    },
     {
       "name": "Chris McGovern",
       "approxTime": "2026-08-31T09:19:51-04:00",
