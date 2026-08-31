@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T09:26:50-04:00",
+  "lastChecked": "2026-08-31T09:42:24-04:00",
   "freeVotes": [
+    {
+      "name": "Karl W Kowallis",
+      "approxTime": "2026-08-31T09:41:48-04:00",
+      "relativeAtCapture": "36 seconds ago",
+      "firstLogged": "2026-08-31T09:42:24-04:00"
+    },
     {
       "name": "Umme Qulsum",
       "approxTime": "2026-08-31T09:26:22-04:00",
