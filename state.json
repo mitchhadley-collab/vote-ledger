@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T09:11:11-04:00",
+  "lastChecked": "2026-08-31T09:13:19-04:00",
   "freeVotes": [
+    {
+      "name": "Kelly Stiles",
+      "approxTime": "2026-08-31T09:12:38-04:00",
+      "relativeAtCapture": "41 seconds ago",
+      "firstLogged": "2026-08-31T09:13:19-04:00"
+    },
     {
       "name": "Anna Fiderer",
       "approxTime": "2026-08-31T09:10:31-04:00",
