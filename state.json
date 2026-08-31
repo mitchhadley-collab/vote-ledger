@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T14:08:59-04:00",
+  "lastChecked": "2026-08-31T14:28:18-04:00",
   "freeVotes": [
+    {
+      "name": "Joe King",
+      "approxTime": "2026-08-31T14:27:38-04:00",
+      "relativeAtCapture": "40 seconds ago",
+      "firstLogged": "2026-08-31T14:28:18-04:00"
+    },
     {
       "name": "Imthiyaz Muhd",
       "approxTime": "2026-08-31T14:08:12-04:00",
