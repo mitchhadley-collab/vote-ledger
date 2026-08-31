@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T13:55:26-04:00",
+  "lastChecked": "2026-08-31T14:00:38-04:00",
   "freeVotes": [
+    {
+      "name": "Angelo Lopez",
+      "approxTime": "2026-08-31T13:59:38-04:00",
+      "relativeAtCapture": "1 minute ago",
+      "firstLogged": "2026-08-31T14:00:38-04:00"
+    },
     {
       "name": "Joseph DiStefano",
       "approxTime": "2026-08-31T13:54:45-04:00",
