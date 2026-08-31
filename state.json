@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T18:01:22-04:00",
+  "lastChecked": "2026-08-31T18:02:25-04:00",
   "freeVotes": [
+    {
+      "name": "Elle Joy",
+      "approxTime": "2026-08-31T18:01:53-04:00",
+      "relativeAtCapture": "32 seconds ago",
+      "firstLogged": "2026-08-31T18:02:25-04:00"
+    },
     {
       "name": "Melis Tirhi",
       "approxTime": "2026-08-31T18:00:32-04:00",
