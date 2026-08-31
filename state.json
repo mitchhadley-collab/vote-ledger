@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T03:47:54-04:00",
+  "lastChecked": "2026-08-31T06:14:59-04:00",
   "freeVotes": [
+    {
+      "name": "Shruti A",
+      "approxTime": "2026-08-31T06:14:51-04:00",
+      "relativeAtCapture": "8 seconds ago",
+      "firstLogged": "2026-08-31T06:14:59-04:00"
+    },
     {
       "name": "Arghya Sinha Roy",
       "approxTime": "2026-08-31T03:47:33-04:00",
