@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T20:55:26-04:00",
+  "lastChecked": "2026-08-30T20:56:30-04:00",
   "freeVotes": [
+    {
+      "name": "Lorin Ann",
+      "approxTime": "2026-08-30T20:56:17-04:00",
+      "relativeAtCapture": "13 seconds ago",
+      "firstLogged": "2026-08-30T20:56:30-04:00"
+    },
     {
       "name": "Felix Lempert",
       "approxTime": "2026-08-30T20:55:00-04:00",
