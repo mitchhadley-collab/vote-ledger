@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-30T20:03:32-04:00",
+  "lastChecked": "2026-08-30T20:30:29-04:00",
   "freeVotes": [
+    {
+      "name": "David Huber",
+      "approxTime": "2026-08-30T20:29:44-04:00",
+      "relativeAtCapture": "45 seconds ago",
+      "firstLogged": "2026-08-30T20:30:29-04:00"
+    },
     {
       "name": "Meredith Hoynacki",
       "approxTime": "2026-08-30T20:03:07-04:00",
