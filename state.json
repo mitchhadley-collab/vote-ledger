@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T17:16:43-04:00",
+  "lastChecked": "2026-08-31T17:27:04-04:00",
   "freeVotes": [
+    {
+      "name": "Sha King",
+      "approxTime": "2026-08-31T17:27:02-04:00",
+      "relativeAtCapture": "2 seconds ago",
+      "firstLogged": "2026-08-31T17:27:04-04:00"
+    },
     {
       "name": "Helen Yee",
       "approxTime": "2026-08-31T17:16:09-04:00",
