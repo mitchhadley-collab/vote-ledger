@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T18:21:13-04:00",
+  "lastChecked": "2026-08-31T19:04:43-04:00",
   "freeVotes": [
+    {
+      "name": "Serina Anderson",
+      "approxTime": "2026-08-31T19:04:07-04:00",
+      "relativeAtCapture": "36 seconds ago",
+      "firstLogged": "2026-08-31T19:04:43-04:00"
+    },
     {
       "name": "Kristy Grimm",
       "approxTime": "2026-08-31T18:19:49-04:00",
