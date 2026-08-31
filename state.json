@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T15:34:59-04:00",
+  "lastChecked": "2026-08-31T15:40:10-04:00",
   "freeVotes": [
+    {
+      "name": "Sarah Stiles",
+      "approxTime": "2026-08-31T15:39:23-04:00",
+      "relativeAtCapture": "47 seconds ago",
+      "firstLogged": "2026-08-31T15:40:10-04:00"
+    },
     {
       "name": "Israel Bien",
       "approxTime": "2026-08-31T15:34:54-04:00",
