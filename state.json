@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T01:36:15-04:00",
+  "lastChecked": "2026-08-31T01:42:30-04:00",
   "freeVotes": [
+    {
+      "name": "Ryan Newell",
+      "approxTime": "2026-08-31T01:42:11-04:00",
+      "relativeAtCapture": "19 seconds ago",
+      "firstLogged": "2026-08-31T01:42:30-04:00"
+    },
     {
       "name": "Prithvi Mn",
       "approxTime": "2026-08-31T01:35:30-04:00",
