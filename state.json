@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T16:04:02-04:00",
+  "lastChecked": "2026-08-31T16:22:43-04:00",
   "freeVotes": [
+    {
+      "name": "Zach Jun Hyuk Hong",
+      "approxTime": "2026-08-31T16:21:46-04:00",
+      "relativeAtCapture": "57 seconds ago",
+      "firstLogged": "2026-08-31T16:22:43-04:00"
+    },
     {
       "name": "Robert Matthew",
       "approxTime": "2026-08-31T16:03:18-04:00",
