@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T18:03:29-04:00",
+  "lastChecked": "2026-08-31T18:04:32-04:00",
   "freeVotes": [
+    {
+      "name": "Jeffery Liuzzi",
+      "approxTime": "2026-08-31T18:03:38-04:00",
+      "relativeAtCapture": "54 seconds ago",
+      "firstLogged": "2026-08-31T18:04:32-04:00"
+    },
     {
       "name": "Michael Joseph Whitelaw",
       "approxTime": "2026-08-31T18:03:17-04:00",
