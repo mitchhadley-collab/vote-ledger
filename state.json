@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T16:51:47-04:00",
+  "lastChecked": "2026-08-31T17:09:23-04:00",
   "freeVotes": [
+    {
+      "name": "Bill McLinden",
+      "approxTime": "2026-08-31T17:08:27-04:00",
+      "relativeAtCapture": "56 seconds ago",
+      "firstLogged": "2026-08-31T17:09:23-04:00"
+    },
     {
       "name": "DereknDonna Arps",
       "approxTime": "2026-08-31T16:50:54-04:00",
