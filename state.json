@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T02:19:49-04:00",
+  "lastChecked": "2026-08-31T03:05:25-04:00",
   "freeVotes": [
+    {
+      "name": "Nicole Daniels",
+      "approxTime": "2026-08-31T03:05:03-04:00",
+      "relativeAtCapture": "22 seconds ago",
+      "firstLogged": "2026-08-31T03:05:25-04:00"
+    },
     {
       "name": "Aditya Raj",
       "approxTime": "2026-08-31T02:18:57-04:00",
