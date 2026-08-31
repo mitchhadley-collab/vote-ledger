@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T18:04:32-04:00",
+  "lastChecked": "2026-08-31T18:07:40-04:00",
   "freeVotes": [
+    {
+      "name": "Claine Snow",
+      "approxTime": "2026-08-31T18:07:25-04:00",
+      "relativeAtCapture": "15 seconds ago",
+      "firstLogged": "2026-08-31T18:07:40-04:00"
+    },
     {
       "name": "Jeffery Liuzzi",
       "approxTime": "2026-08-31T18:03:38-04:00",
