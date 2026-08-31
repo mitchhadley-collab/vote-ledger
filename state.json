@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T07:12:03-04:00",
+  "lastChecked": "2026-08-31T07:49:20-04:00",
   "freeVotes": [
+    {
+      "name": "Dammy Dammy",
+      "approxTime": "2026-08-31T07:48:49-04:00",
+      "relativeAtCapture": "31 seconds ago",
+      "firstLogged": "2026-08-31T07:49:20-04:00"
+    },
     {
       "name": "Jersey Sales",
       "approxTime": "2026-08-31T07:12:02-04:00",
