@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T14:31:27-04:00",
+  "lastChecked": "2026-08-31T14:32:31-04:00",
   "freeVotes": [
+    {
+      "name": "Jenna Whitney",
+      "approxTime": "2026-08-31T14:32:26-04:00",
+      "relativeAtCapture": "5 seconds ago",
+      "firstLogged": "2026-08-31T14:32:31-04:00"
+    },
     {
       "name": "Michelle Sathish",
       "approxTime": "2026-08-31T14:31:11-04:00",
