@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-01T13:28:27-04:00",
+  "lastChecked": "2026-09-01T13:39:52-04:00",
   "freeVotes": [
+    {
+      "name": "David Lee",
+      "approxTime": "2026-09-01T13:39:10-04:00",
+      "relativeAtCapture": "42 seconds ago",
+      "firstLogged": "2026-09-01T13:39:52-04:00"
+    },
     {
       "name": "David Grimm",
       "approxTime": "2026-09-01T13:27:49-04:00",
