@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-01T15:26:44-04:00",
+  "lastChecked": "2026-09-01T15:40:13-04:00",
   "freeVotes": [
+    {
+      "name": "Janet Gunnell",
+      "approxTime": "2026-09-01T15:39:16-04:00",
+      "relativeAtCapture": "57 seconds ago",
+      "firstLogged": "2026-09-01T15:40:13-04:00"
+    },
     {
       "name": "Nidhi Masrani",
       "approxTime": "2026-09-01T15:26:27-04:00",
