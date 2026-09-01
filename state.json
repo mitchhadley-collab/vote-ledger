@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-01T17:03:25-04:00",
+  "lastChecked": "2026-09-01T17:16:54-04:00",
   "freeVotes": [
+    {
+      "name": "Ryan Newell",
+      "approxTime": "2026-09-01T17:16:05-04:00",
+      "relativeAtCapture": "49 seconds ago",
+      "firstLogged": "2026-09-01T17:16:54-04:00"
+    },
     {
       "name": "Melis Tirhi",
       "approxTime": "2026-09-01T17:03:19-04:00",
