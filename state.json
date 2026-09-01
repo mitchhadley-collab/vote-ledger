@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T21:09:26-04:00",
+  "lastChecked": "2026-08-31T21:10:30-04:00",
   "freeVotes": [
+    {
+      "name": "Jimmie Raleigh",
+      "approxTime": "2026-08-31T21:10:17-04:00",
+      "relativeAtCapture": "13 seconds ago",
+      "firstLogged": "2026-08-31T21:10:30-04:00"
+    },
     {
       "name": "Maegan Assaf",
       "approxTime": "2026-08-31T21:09:20-04:00",
