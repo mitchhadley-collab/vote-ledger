@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-08-31T21:31:33-04:00",
+  "lastChecked": "2026-08-31T21:38:58-04:00",
   "freeVotes": [
+    {
+      "name": "Monish Menon",
+      "approxTime": "2026-08-31T21:38:26-04:00",
+      "relativeAtCapture": "32 seconds ago",
+      "firstLogged": "2026-08-31T21:38:58-04:00"
+    },
     {
       "name": "Ara Markarian",
       "approxTime": "2026-08-31T21:30:55-04:00",
