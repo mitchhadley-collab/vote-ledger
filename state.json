@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-01T14:14:06-04:00",
+  "lastChecked": "2026-09-01T14:18:17-04:00",
   "freeVotes": [
+    {
+      "name": "Chris HD",
+      "approxTime": "2026-09-01T14:17:42-04:00",
+      "relativeAtCapture": "35 seconds ago",
+      "firstLogged": "2026-09-01T14:18:17-04:00"
+    },
     {
       "name": "Bryan Weinstein",
       "approxTime": "2026-09-01T14:14:05-04:00",
