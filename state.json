@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-01T16:34:22-04:00",
+  "lastChecked": "2026-09-01T16:54:04-04:00",
   "freeVotes": [
+    {
+      "name": "Raina Patel",
+      "approxTime": "2026-09-01T16:54:01-04:00",
+      "relativeAtCapture": "3 seconds ago",
+      "firstLogged": "2026-09-01T16:54:04-04:00"
+    },
     {
       "name": "Zach Jun Hyuk Hong",
       "approxTime": "2026-09-01T16:33:46-04:00",
