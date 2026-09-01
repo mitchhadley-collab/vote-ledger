@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-01T19:41:11-04:00",
+  "lastChecked": "2026-09-01T19:51:34-04:00",
   "freeVotes": [
+    {
+      "name": "Helen Yee",
+      "approxTime": "2026-09-01T19:51:16-04:00",
+      "relativeAtCapture": "18 seconds ago",
+      "firstLogged": "2026-09-01T19:51:34-04:00"
+    },
     {
       "name": "Brittany Penn",
       "approxTime": "2026-09-01T19:40:33-04:00",
