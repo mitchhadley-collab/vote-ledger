@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-01T18:59:44-04:00",
+  "lastChecked": "2026-09-01T19:41:11-04:00",
   "freeVotes": [
+    {
+      "name": "Brittany Penn",
+      "approxTime": "2026-09-01T19:40:33-04:00",
+      "relativeAtCapture": "38 seconds ago",
+      "firstLogged": "2026-09-01T19:41:11-04:00"
+    },
     {
       "name": "Bill McLinden",
       "approxTime": "2026-09-01T18:59:29-04:00",
