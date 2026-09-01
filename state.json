@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-01T18:03:33-04:00",
+  "lastChecked": "2026-09-01T18:11:51-04:00",
   "freeVotes": [
+    {
+      "name": "Binni Liu",
+      "approxTime": "2026-09-01T18:10:57-04:00",
+      "relativeAtCapture": "54 seconds ago",
+      "firstLogged": "2026-09-01T18:11:51-04:00"
+    },
     {
       "name": "Amy Marie",
       "approxTime": "2026-09-01T18:02:44-04:00",
