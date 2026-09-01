@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-01T11:43:38-04:00",
+  "lastChecked": "2026-09-01T11:46:46-04:00",
   "freeVotes": [
+    {
+      "name": "Mitchell Hadley",
+      "approxTime": "2026-09-01T11:46:05-04:00",
+      "relativeAtCapture": "41 seconds ago",
+      "firstLogged": "2026-09-01T11:46:46-04:00"
+    },
     {
       "name": "Jaclyn Marzigliano McGovern",
       "approxTime": "2026-09-01T11:42:43-04:00",
