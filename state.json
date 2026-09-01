@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-01T16:11:22-04:00",
+  "lastChecked": "2026-09-01T16:13:28-04:00",
   "freeVotes": [
+    {
+      "name": "Robert Matthew",
+      "approxTime": "2026-09-01T16:13:04-04:00",
+      "relativeAtCapture": "24 seconds ago",
+      "firstLogged": "2026-09-01T16:13:28-04:00"
+    },
     {
       "name": "Amanda Hodson",
       "approxTime": "2026-09-01T16:11:19-04:00",
