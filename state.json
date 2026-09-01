@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-01T18:51:26-04:00",
+  "lastChecked": "2026-09-01T18:59:44-04:00",
   "freeVotes": [
+    {
+      "name": "Bill McLinden",
+      "approxTime": "2026-09-01T18:59:29-04:00",
+      "relativeAtCapture": "15 seconds ago",
+      "firstLogged": "2026-09-01T18:59:44-04:00"
+    },
     {
       "name": "David Hoynacki",
       "approxTime": "2026-09-01T18:50:38-04:00",
