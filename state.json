@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-01T20:58:07-04:00",
+  "lastChecked": "2026-09-01T20:59:10-04:00",
   "freeVotes": [
+    {
+      "name": "April Hadley",
+      "approxTime": "2026-09-01T20:58:28-04:00",
+      "relativeAtCapture": "42 seconds ago",
+      "firstLogged": "2026-09-01T20:59:10-04:00"
+    },
     {
       "name": "Madhumita Chatterjee",
       "approxTime": "2026-09-01T20:57:26-04:00",
