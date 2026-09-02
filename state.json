@@ -1,7 +1,7 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T16:25:04-04:00",
+  "lastChecked": "2026-09-02T16:28:12-04:00",
   "freeVotes": [
     {
       "name": "Umme Qulsum",
@@ -5939,6 +5939,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "Talia Ortega",
+      "votes": 50,
+      "approxTime": "2026-09-02T16:27:46-04:00",
+      "relativeAtCapture": "26 seconds ago",
+      "comment": null
+    },
     {
       "name": "Xiaoou Jin",
       "votes": 50,
