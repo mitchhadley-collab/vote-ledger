@@ -1,7 +1,7 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T17:10:44-04:00",
+  "lastChecked": "2026-09-02T17:33:32-04:00",
   "freeVotes": [
     {
       "name": "Joseph Lopez",
@@ -5963,6 +5963,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "William McLinden",
+      "votes": 50,
+      "approxTime": "2026-09-02T17:33:30-04:00",
+      "relativeAtCapture": "2 seconds ago",
+      "comment": null
+    },
     {
       "name": "Phil Portera",
       "votes": 100,
