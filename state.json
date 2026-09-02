@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T16:10:35-04:00",
+  "lastChecked": "2026-09-02T16:25:04-04:00",
   "freeVotes": [
+    {
+      "name": "Umme Qulsum",
+      "approxTime": "2026-09-02T16:24:21-04:00",
+      "relativeAtCapture": "43 seconds ago",
+      "firstLogged": "2026-09-02T16:25:04-04:00"
+    },
     {
       "name": "Kristen Di Stefano",
       "approxTime": "2026-09-02T16:10:20-04:00",
