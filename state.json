@@ -1,7 +1,7 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T13:52:24-04:00",
+  "lastChecked": "2026-09-02T14:18:16-04:00",
   "freeVotes": [
     {
       "name": "Jennifer Benson",
@@ -5843,6 +5843,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "Caitlin Curtis",
+      "votes": 100,
+      "approxTime": "2026-09-02T14:17:42-04:00",
+      "relativeAtCapture": "34 seconds ago",
+      "comment": null
+    },
     {
       "name": "David Loewenberg",
       "votes": 20,
