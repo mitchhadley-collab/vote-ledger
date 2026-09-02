@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-01T21:47:00-04:00",
+  "lastChecked": "2026-09-01T22:11:52-04:00",
   "freeVotes": [
+    {
+      "name": "Kirby Quada",
+      "approxTime": "2026-09-01T22:11:12-04:00",
+      "relativeAtCapture": "40 seconds ago",
+      "firstLogged": "2026-09-01T22:11:52-04:00"
+    },
     {
       "name": "Anna Fiderer",
       "approxTime": "2026-09-01T21:46:50-04:00",
@@ -5573,6 +5579,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "Caitlin Curtis",
+      "votes": 10,
+      "approxTime": "2026-09-01T22:11:38-04:00",
+      "relativeAtCapture": "14 seconds ago",
+      "comment": null
+    },
     {
       "name": "Kristy Grimm",
       "votes": 10,
