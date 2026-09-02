@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T15:43:31-04:00",
+  "lastChecked": "2026-09-02T15:47:41-04:00",
   "freeVotes": [
+    {
+      "name": "Steven Hadley",
+      "approxTime": "2026-09-02T15:47:21-04:00",
+      "relativeAtCapture": "20 seconds ago",
+      "firstLogged": "2026-09-02T15:47:41-04:00"
+    },
     {
       "name": "Susan Hadley",
       "approxTime": "2026-09-02T15:43:21-04:00",
