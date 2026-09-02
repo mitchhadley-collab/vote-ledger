@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T16:04:18-04:00",
+  "lastChecked": "2026-09-02T16:07:27-04:00",
   "freeVotes": [
+    {
+      "name": "Phyllis DiStefano",
+      "approxTime": "2026-09-02T16:07:09-04:00",
+      "relativeAtCapture": "18 seconds ago",
+      "firstLogged": "2026-09-02T16:07:27-04:00"
+    },
     {
       "name": "Janet Gunnell",
       "approxTime": "2026-09-02T16:03:59-04:00",
