@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-01T23:47:10-04:00",
+  "lastChecked": "2026-09-02T01:09:01-04:00",
   "freeVotes": [
+    {
+      "name": "Sha King",
+      "approxTime": "2026-09-02T01:08:15-04:00",
+      "relativeAtCapture": "46 seconds ago",
+      "firstLogged": "2026-09-02T01:09:01-04:00"
+    },
     {
       "name": "Michael Koecher",
       "approxTime": "2026-09-01T23:46:36-04:00",
