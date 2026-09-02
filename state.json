@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T15:03:04-04:00",
+  "lastChecked": "2026-09-02T15:13:26-04:00",
   "freeVotes": [
+    {
+      "name": "Ojesh Shrivastav",
+      "approxTime": "2026-09-02T15:12:32-04:00",
+      "relativeAtCapture": "54 seconds ago",
+      "firstLogged": "2026-09-02T15:13:26-04:00"
+    },
     {
       "name": "Nidhi Masrani",
       "approxTime": "2026-09-02T14:55:51-04:00",
