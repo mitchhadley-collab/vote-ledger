@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T03:09:04-04:00",
+  "lastChecked": "2026-09-02T03:48:23-04:00",
   "freeVotes": [
+    {
+      "name": "Roseann Napolitano",
+      "approxTime": "2026-09-02T03:48:11-04:00",
+      "relativeAtCapture": "12 seconds ago",
+      "firstLogged": "2026-09-02T03:48:23-04:00"
+    },
     {
       "name": "Aditya Raj",
       "approxTime": "2026-09-02T03:08:38-04:00",
