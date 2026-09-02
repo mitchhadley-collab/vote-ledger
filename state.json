@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T14:49:31-04:00",
+  "lastChecked": "2026-09-02T14:50:35-04:00",
   "freeVotes": [
+    {
+      "name": "Sree Hari",
+      "approxTime": "2026-09-02T14:50:00-04:00",
+      "relativeAtCapture": "35 seconds ago",
+      "firstLogged": "2026-09-02T14:50:35-04:00"
+    },
     {
       "name": "V Nani",
       "approxTime": "2026-09-02T14:48:33-04:00",
