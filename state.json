@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T15:13:26-04:00",
+  "lastChecked": "2026-09-02T15:17:36-04:00",
   "freeVotes": [
+    {
+      "name": "Nader Parvin",
+      "approxTime": "2026-09-02T15:17:34-04:00",
+      "relativeAtCapture": "2 seconds ago",
+      "firstLogged": "2026-09-02T15:17:36-04:00"
+    },
     {
       "name": "Ojesh Shrivastav",
       "approxTime": "2026-09-02T15:12:32-04:00",
