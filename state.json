@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T18:31:45-04:00",
+  "lastChecked": "2026-09-02T18:45:15-04:00",
   "freeVotes": [
+    {
+      "name": "Ben Woodrow",
+      "approxTime": "2026-09-02T18:44:20-04:00",
+      "relativeAtCapture": "55 seconds ago",
+      "firstLogged": "2026-09-02T18:45:15-04:00"
+    },
     {
       "name": "Giovanna Maria Vee",
       "approxTime": "2026-09-02T18:31:15-04:00",
