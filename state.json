@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T19:16:23-04:00",
+  "lastChecked": "2026-09-02T19:45:24-04:00",
   "freeVotes": [
+    {
+      "name": "Kathy Mecham Johnson",
+      "approxTime": "2026-09-02T19:44:47-04:00",
+      "relativeAtCapture": "37 seconds ago",
+      "firstLogged": "2026-09-02T19:45:24-04:00"
+    },
     {
       "name": "Serina Anderson",
       "approxTime": "2026-09-02T19:16:17-04:00",
