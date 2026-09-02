@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-01T20:06:06-04:00",
+  "lastChecked": "2026-09-01T20:22:41-04:00",
   "freeVotes": [
+    {
+      "name": "Meredith Hoynacki",
+      "approxTime": "2026-09-01T20:22:38-04:00",
+      "relativeAtCapture": "3 seconds ago",
+      "firstLogged": "2026-09-01T20:22:41-04:00"
+    },
     {
       "name": "Jeffery Liuzzi",
       "approxTime": "2026-09-01T20:05:11-04:00",
