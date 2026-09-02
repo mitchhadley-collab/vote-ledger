@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T11:47:51-04:00",
+  "lastChecked": "2026-09-02T11:59:15-04:00",
   "freeVotes": [
+    {
+      "name": "Louis Mathis",
+      "approxTime": "2026-09-02T11:58:22-04:00",
+      "relativeAtCapture": "53 seconds ago",
+      "firstLogged": "2026-09-02T11:59:15-04:00"
+    },
     {
       "name": "Nicole Daniels",
       "approxTime": "2026-09-02T11:47:18-04:00",
@@ -5753,6 +5759,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "David Huber",
+      "votes": 50,
+      "approxTime": "2026-09-02T11:59:12-04:00",
+      "relativeAtCapture": "3 seconds ago",
+      "comment": null
+    },
     {
       "name": "Melissa Wiunton",
       "votes": 50,
