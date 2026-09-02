@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T19:45:24-04:00",
+  "lastChecked": "2026-09-02T19:53:43-04:00",
   "freeVotes": [
+    {
+      "name": "Jeffery Liuzzi",
+      "approxTime": "2026-09-02T19:52:45-04:00",
+      "relativeAtCapture": "58 seconds ago",
+      "firstLogged": "2026-09-02T19:53:43-04:00"
+    },
     {
       "name": "Kathy Mecham Johnson",
       "approxTime": "2026-09-02T19:44:47-04:00",
