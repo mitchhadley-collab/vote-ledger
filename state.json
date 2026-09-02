@@ -1,7 +1,7 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T14:18:16-04:00",
+  "lastChecked": "2026-09-02T14:20:22-04:00",
   "freeVotes": [
     {
       "name": "Jennifer Benson",
@@ -5843,6 +5843,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "Gangadhar Chittlur",
+      "votes": 20,
+      "approxTime": "2026-09-02T14:20:14-04:00",
+      "relativeAtCapture": "8 seconds ago",
+      "comment": null
+    },
     {
       "name": "Caitlin Curtis",
       "votes": 100,
