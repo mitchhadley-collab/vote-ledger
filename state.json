@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T10:43:32-04:00",
+  "lastChecked": "2026-09-02T10:47:41-04:00",
   "freeVotes": [
+    {
+      "name": "Maegan Assaf",
+      "approxTime": "2026-09-02T10:47:37-04:00",
+      "relativeAtCapture": "4 seconds ago",
+      "firstLogged": "2026-09-02T10:47:41-04:00"
+    },
     {
       "name": "Jenna Whitney",
       "approxTime": "2026-09-02T10:43:31-04:00",
