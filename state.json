@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T18:07:51-04:00",
+  "lastChecked": "2026-09-02T18:08:55-04:00",
   "freeVotes": [
+    {
+      "name": "David Hoynacki",
+      "approxTime": "2026-09-02T18:08:33-04:00",
+      "relativeAtCapture": "22 seconds ago",
+      "firstLogged": "2026-09-02T18:08:55-04:00"
+    },
     {
       "name": "Joey Gerber",
       "approxTime": "2026-09-02T18:07:21-04:00",
