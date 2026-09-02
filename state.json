@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T19:53:43-04:00",
+  "lastChecked": "2026-09-02T19:58:55-04:00",
   "freeVotes": [
+    {
+      "name": "Raina Patel",
+      "approxTime": "2026-09-02T19:57:55-04:00",
+      "relativeAtCapture": "1 minute ago",
+      "firstLogged": "2026-09-02T19:58:55-04:00"
+    },
     {
       "name": "Jeffery Liuzzi",
       "approxTime": "2026-09-02T19:52:45-04:00",
