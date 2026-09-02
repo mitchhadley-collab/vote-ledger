@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T12:10:46-04:00",
+  "lastChecked": "2026-09-02T12:14:56-04:00",
   "freeVotes": [
+    {
+      "name": "Chris McGovern",
+      "approxTime": "2026-09-02T12:14:42-04:00",
+      "relativeAtCapture": "14 seconds ago",
+      "firstLogged": "2026-09-02T12:14:56-04:00"
+    },
     {
       "name": "Sriniketh Avadhanula",
       "approxTime": "2026-09-02T12:06:42-04:00",
