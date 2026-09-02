@@ -1,7 +1,7 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T08:39:15-04:00",
+  "lastChecked": "2026-09-02T09:56:54-04:00",
   "freeVotes": [
     {
       "name": "Eric Grimm",
@@ -5675,6 +5675,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "Melissa Wiunton",
+      "votes": 50,
+      "approxTime": "2026-09-02T09:55:54-04:00",
+      "relativeAtCapture": "1 minute ago",
+      "comment": null
+    },
     {
       "name": "Caitlin Curtis",
       "votes": 10,
