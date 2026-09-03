@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T20:15:36-04:00",
+  "lastChecked": "2026-09-02T20:39:26-04:00",
   "freeVotes": [
+    {
+      "name": "April Hadley",
+      "approxTime": "2026-09-02T20:39:13-04:00",
+      "relativeAtCapture": "13 seconds ago",
+      "firstLogged": "2026-09-02T20:39:26-04:00"
+    },
     {
       "name": "Talia Ortega",
       "approxTime": "2026-09-02T20:10:01-04:00",
