@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T22:56:19-04:00",
+  "lastChecked": "2026-09-02T23:07:44-04:00",
   "freeVotes": [
+    {
+      "name": "Meredith Hoynacki",
+      "approxTime": "2026-09-02T23:07:23-04:00",
+      "relativeAtCapture": "21 seconds ago",
+      "firstLogged": "2026-09-02T23:07:44-04:00"
+    },
     {
       "name": "Marissa Adams",
       "approxTime": "2026-09-02T22:41:24-04:00",
