@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T22:38:39-04:00",
+  "lastChecked": "2026-09-02T22:40:45-04:00",
   "freeVotes": [
+    {
+      "name": "Amy Marie",
+      "approxTime": "2026-09-02T22:40:17-04:00",
+      "relativeAtCapture": "28 seconds ago",
+      "firstLogged": "2026-09-02T22:40:45-04:00"
+    },
     {
       "name": "Anna Fiderer",
       "approxTime": "2026-09-02T22:38:08-04:00",
