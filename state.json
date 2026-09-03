@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-03T02:33:49-04:00",
+  "lastChecked": "2026-09-03T02:34:53-04:00",
   "freeVotes": [
+    {
+      "name": "Kristy Grimm",
+      "approxTime": "2026-09-03T02:34:22-04:00",
+      "relativeAtCapture": "31 seconds ago",
+      "firstLogged": "2026-09-03T02:34:53-04:00"
+    },
     {
       "name": "Sha King",
       "approxTime": "2026-09-03T02:33:33-04:00",
