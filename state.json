@@ -1,7 +1,7 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-02T20:10:23-04:00",
+  "lastChecked": "2026-09-02T20:15:36-04:00",
   "freeVotes": [
     {
       "name": "Talia Ortega",
@@ -6077,6 +6077,13 @@
     }
   ],
   "donationVotes": [
+    {
+      "name": "Rosalee Jefferson",
+      "votes": 20,
+      "approxTime": "2026-09-02T20:14:38-04:00",
+      "relativeAtCapture": "58 seconds ago",
+      "comment": null
+    },
     {
       "name": "Binni Liu",
       "votes": 100,
