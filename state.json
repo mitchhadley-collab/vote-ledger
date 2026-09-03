@@ -1,8 +1,20 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-03T18:01:04-04:00",
+  "lastChecked": "2026-09-03T18:05:14-04:00",
   "freeVotes": [
+    {
+      "name": "Ben Woodrow",
+      "approxTime": "2026-09-03T18:05:01-04:00",
+      "relativeAtCapture": "13 seconds ago",
+      "firstLogged": "2026-09-03T18:05:14-04:00"
+    },
+    {
+      "name": "Sarah Stiles",
+      "approxTime": "2026-09-03T18:04:30-04:00",
+      "relativeAtCapture": "44 seconds ago",
+      "firstLogged": "2026-09-03T18:05:14-04:00"
+    },
     {
       "name": "Joseph Lopez",
       "approxTime": "2026-09-03T18:00:28-04:00",
