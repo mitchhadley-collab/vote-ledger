@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-03T16:41:16-04:00",
+  "lastChecked": "2026-09-03T17:01:58-04:00",
   "freeVotes": [
+    {
+      "name": "R.K. Handa",
+      "approxTime": "2026-09-03T17:01:00-04:00",
+      "relativeAtCapture": "58 seconds ago",
+      "firstLogged": "2026-09-03T17:01:58-04:00"
+    },
     {
       "name": "Michelle Sathish",
       "approxTime": "2026-09-03T16:40:25-04:00",
