@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-03T20:57:07-04:00",
+  "lastChecked": "2026-09-03T21:19:54-04:00",
   "freeVotes": [
+    {
+      "name": "Pushpa Handa",
+      "approxTime": "2026-09-03T21:18:59-04:00",
+      "relativeAtCapture": "55 seconds ago",
+      "firstLogged": "2026-09-03T21:19:54-04:00"
+    },
     {
       "name": "Talia Ortega",
       "approxTime": "2026-09-03T20:56:33-04:00",
