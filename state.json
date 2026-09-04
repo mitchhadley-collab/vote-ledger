@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-03T21:34:57-04:00",
+  "lastChecked": "2026-09-03T21:36:00-04:00",
   "freeVotes": [
+    {
+      "name": "Gabrielle Antoinette",
+      "approxTime": "2026-09-03T21:35:53-04:00",
+      "relativeAtCapture": "7 seconds ago",
+      "firstLogged": "2026-09-03T21:36:00-04:00"
+    },
     {
       "name": "Rosalee Jefferson",
       "approxTime": "2026-09-03T21:32:57-04:00",
