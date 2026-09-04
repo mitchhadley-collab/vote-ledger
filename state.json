@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-03T21:25:06-04:00",
+  "lastChecked": "2026-09-03T21:34:57-04:00",
   "freeVotes": [
+    {
+      "name": "Rosalee Jefferson",
+      "approxTime": "2026-09-03T21:32:57-04:00",
+      "relativeAtCapture": "2 minutes ago",
+      "firstLogged": "2026-09-03T21:34:57-04:00"
+    },
     {
       "name": "Robert Matthew",
       "approxTime": "2026-09-03T21:24:41-04:00",
