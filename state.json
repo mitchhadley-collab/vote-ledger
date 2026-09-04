@@ -1,8 +1,14 @@
 {
   "contestUrl": "https://americasfavcouple.org/dashboard",
   "timezone": "America/New_York",
-  "lastChecked": "2026-09-03T20:35:20-04:00",
+  "lastChecked": "2026-09-03T20:36:24-04:00",
   "freeVotes": [
+    {
+      "name": "Ara Markarian",
+      "approxTime": "2026-09-03T20:35:35-04:00",
+      "relativeAtCapture": "49 seconds ago",
+      "firstLogged": "2026-09-03T20:36:24-04:00"
+    },
     {
       "name": "Jaclyn Marzigliano McGovern",
       "approxTime": "2026-09-03T20:34:28-04:00",
